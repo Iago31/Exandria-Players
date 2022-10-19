@@ -8,7 +8,7 @@ tags:
 
 # **Grisalhas Terras Selvagens**
 
-**Links:** 
+**Links:** [[Regiões Pós-Divergência#As Grisalhas Terras Selvagens|História das Grisalhas Terras Selvagens]]
 
 ---
 

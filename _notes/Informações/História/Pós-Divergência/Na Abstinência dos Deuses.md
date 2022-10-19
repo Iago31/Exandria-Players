@@ -7,7 +7,7 @@ tags:
 ---
 # **Na Abstinência dos Deuses**
 
-**Links:** [[Locais]]
+**Links:** [[Regiões Pós-Divergência]]
 
 ---
 

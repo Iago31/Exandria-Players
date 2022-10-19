@@ -4,15 +4,15 @@ aliases:
 tags:
 - história
 ---
-# **Locais**
+# **Regiões Pós-Divergência**
 
 **Links:** 
 
 ---
 
 
-### As Grisalhas Terras Selvagens
-![[Drows de Ghor Dranas.png|center|500]]
+### As [[Grisalhas Terras Selvagens]]
+![Drows de Ghor Dranas|600](https://github.com/Iago31/Exandria-Players/blob/master/assets/Drows%20de%20Ghor%20Dranas.png?raw=true)
 Os ferozes poderes liberados nos conflitos da Calamidade partiram através da região de pesadas florestas conhecida como as Grisalhas Terras Selvagens, que acendeu um lento incêndio arcano nas florestas que encandeceram por quase um século, queimando através das saudáveis arvores da região como uma praga de cinzas. O reino ao norte foi desolado, cinzas e terra sopradas em pó e areia enquanto os gelados ventos nórdicos transformaram as numerosas colinas em um deserto de gelo e cascalho. Os remanescentes anões de Grimgol fugiam e aprofundavam-se nas Alpes Flutuantes, muitos congelando para morte nos vales castigados pelo vento antes de encontrar segurança em cavernas naturais profundas dentro das montanhas. Dentro destas profundezas gélidas, os anões cultivaram incandescentes lareiras e trouxeram calor para o coração da montanha, estabelecendo a nova cidade enãnica de Uthodurn.
 
 ###### **Molaesmyr**
@@ -31,9 +31,9 @@ Com pena dos sobreviventes, os anões aceitaram os elfos como refugiados e os of
 
 Infelizmente, um vilarejo de criminosos e foras da lei surgiu ao sul das Madeiras de Savalir, perto das fronteiras do império. Em conjunto com os perigosos cidadãos desta miserável terra, conhecida Córrego Riacho-Sombrio, existem numerosos invasores e ladrões procurando relíquias nas ruinas da floresta, causando conflitos pela região.
 
-### O Litoral das Bestas
+### O [[Litoral das Bestas]]
 
-![[Uk'otoa ataca navios.png|center|500]]
+![Uk'otoa ataca navios|600](https://github.com/Iago31/Exandria-Players/blob/master/assets/Uk'otoa%20ataca%20navios.png?raw=true)
 Enquanto a destruição alcançou os mais distantes cantos do mundo durante os conflitos divinos da Calamidade, as ilhas do Oceano Lucidian ao lado da costa ocidental de Wildemount pensaram que iriam se sair melhor que os outros. Mas apesar de que eles foram removidos da fúria central das magias liberadas nas batalhas finais, as civilizações da região foram destruídas por massivas enchentes. Imensas ondas deixaram a costa afogada e vazia, as ilhas consumidas pelo raivoso oceano, deixando para atrás apenas os mais experientes dos marinheiros. Eventualmente, as águas assentaram-se mais uma vez, e a natureza suavemente reclamou as terras com verdejantes selvas cheias de vida.
 
 ###### **Os Ki’Nau**
@@ -50,7 +50,7 @@ Durante este tempo, uma cruel cultura aquática chamada Vukan descobriu os Ki’
 
 Perdendo uma porção dos seus navios nestas lutas, os navios Marquesianos sobreviventes ficaram nas Ilhas Swavain para construir pequenos assentamentos na costa para ajudar em suas trocas com os Ki’Nau. O líder Ki’Nau Tauan mantel uma amigável paz com os marinheiros forasteiros, mas Uk’otoa queria dominar os novos residentes que se recusavam a renunciar de seus deuses antigos e curvar-se a ele. Estas tensões cresceram ainda mais até que um secreto culto de Marquesianos adoradores da Serpente Oculta Zehir ganharam uma tarefa de seu enfurecido deus de através do Portão Divino: destruir Uk’otoa por sua insolência. Com a ajuda do poderoso líder do culto dentro de uma guilda arqueológica chamada de Aliança do Onisciente, uma série de templos construídos a Uk’otoa foram corrompidos com a influencia de Zehir e usados para selar Uk’otoa abaixo das rochas do solo do oceano, roubando dos Ki’Nau o seu patrono.
 
-###### **Nascimento da Concórdia de Clóvis**
+###### **Nascimento da [[Concórdia de Clóvis]]**
 
 Nesta época, a cidade de Ank’Harel em Marquet tinha acabado de nomear o misterioso J’mon Sa Ord como seu novo imperador. Nesta transição, os colonistas Marquesianos agora vivendo na costa demandaram independência de Marquet e começaram a construir sua própria sociedade e identidade em conjunto dos Ki’Nau. Ord eventualmente aceitou o pedido, e os emancipados Marquesianos aliaram-se com os Ki’Nau para construir uma nova civilização. Acima dos seguintes séculos, numerosos cidades costeiras cresceram e tornaram-se cidades-estados, as rotas de troca expandidas no que agora é conhecido como a Costa Menagerie, e as guildas emergentes consolidarem poder o suficiente para tornarem-se os comandantes da região: a Concórdia de Clóvis.
 
@@ -59,7 +59,7 @@ A concórdia trabalhou em conjunto para manter o Oceano Lucidian sob suas regras
 ### Wynandir Ocidental
 As terras de Wynandir Ocidental foram o epicentro da destruição da Calamidade. Cordilheiras de montanhas foram destruídas, paisagens inteiras queimadas, as cidades flutuantes consumidas abaixo da faminta terra.
 
-###### **Grimgolir**
+###### **[[Grimgolir]]**
 O clã enãnico de Grimgol que uma vez mantinham o centro da Cordilheira Guardião-Cinza foi quase apagado durante a Calamidade. As famílias sobreviventes e guerreiros enterrados profundamente abaixo da superfície de Exandria para esperar o caos passar. Colapsando quase todo túnel usado nas guerras acima, o clã se encontrou isolados do resto do resto de Exandria. Por séculos, os anões do Clã Grimgol aguentaram a escuridão sozinhos, defendendo-se contra as escórias criadas pelas forças dos Deuses Traidores e se adaptando em resistentes e vigorosas pessoas.
 
 Contos e mitos mal lembrados de suas histórias esquecidas, misturado com a adoração a Moradin, começou a mexer uma vontade de retornar a sua casa ancestral e construir uma nova. Com um novo objetivo, eles cavaram seu caminho de volta a superfície, apenas para encontrar as montanhas de sua casa reduzida a cinzas e pedras.
@@ -73,7 +73,7 @@ Pequenas civilizações começaram a tomar forma entre o caos, mas não foi até
 
 Aumentando em força a cada geração, este movimento guiado pela família Julous ficou conhecido como o Domínio Julous, estendendo-se através do sul de Wynandir Ocidental. Entretanto, nem todos aceitavam juntar-se ao Domínio Julous. Algumas pessoas rejeitaram os interesses dos Julous, fundando sua própria vila de Kamordah na terra fervente dos montes a sudoeste do Vale da Medula. Em pouco tempo, o povo de Kamordah começou a adorar uma entidade de chamas primordiais que vive profundamente abaixo das montanhas e fala com eles por sonhos e visões.
 
-###### **Fundação do Império Dwendaliano**
+###### **Fundação do [[Império Dwendaliano]]**
 Nas frígidas planícies a norte do Vale da Medula, os sobreviventes da cidade de Arcanum Zemniaz arranharam a neve por séculos, agarrando seus pergaminhos sobreviventes e fragmentos de história cultural com toda garra. Eles estabeleceram os rígidos bastiões de Icehaven e Yrrosa, mas não foi até que as pessoas Zemnianas vagaram a leste da Selvageria da Arqueada Pérola que encontraram campos que eram férteis o suficiente para nutrir uma nova sociedade.
 
 Fundada acima das ruinas de um templo ancião de Pelor, o Pai do Amanhecer, a cidade de Rexxentrum cresceu para se tornar o centro da cultura Zemniana. Agora que as pessoas Zemnianas não precisavam mais lutar para sobreviver em meio aos árduos elementos, seus lideres discutiam a como estabelecer um governo centralizado. Alguns desejavam por uma república, enquanto outros procuravam uma teocracia no controle de sacerdotes que pastoreariam pessoas para esta nova era. Eckhard Dwendal, um bem-respeitado mercador e uma tremenda força atrás do desenvolvimento de Rexxentrum, desejou instituir uma monarquia e cocou seu filho Bertrand no trono. Debates corriam soltos por mais de três anos, enquanto Eckhard privadamente fazia acordos com as cabeças das guildas emergentes, usando promessas ou chantagens para assegurar cooperações. Com o retumbante suporte de tais pessoas, o trone foi estabelecido. No ano de 539 da era pós-Divergência, Bertrand foi o primeiro imperador do Império Dwendaliano.
@@ -117,8 +117,8 @@ A uma vez florestada paisagem de Xhorhas foi o local do último campo de batalha
 
 Através destas terras desoladas, bandos espalhados de homens sem objetivo, bestas, e goblinóides lutavam por lar e sustento.   Estas tribos foram confinadas a esta destruída terra pelo leviatã Ki’Nau que guardava as águas através das costas sulistas e dos anões sobreviventes de Grimgolir, que preveniram qualquer Xhorhasiano de se mover mais ao oeste. Os nômades e hostis clãs lutaram contra as ásperas condições do vale por séculos, apenas capazes de desenvolver pequenos bastiões de civilização na mortal selvageria.
 
-###### **A Dinastia Kryn**
-![[A Dinastia Kryn.png|right|400]]
+###### **A [[Dinastia Kryn]]**
+![Dinastia Kryn|600](https://github.com/Iago31/Exandria-Players/blob/master/assets/A%20Dinastia%20Kryn.png?raw=true)
 Abaixo das ruínas de Ghor Dranas, um grupo de Drows rejeitaram Lolth, a sua primaria divindade por séculos, encontrando nova fé em uma entidade esotérica que chamaram de Luxon. Guiados pela luz de sua nova divindade, os Drow sobreviveram a sua ascensão de fundo do subterrâneo e retomaram os salões de Ghor Dranas para si, nomeando sua nova casa Rosohna, ou “renascimento”. A casa comandante dos Kryn ajudou a construir uma nova nação de elfos negros que procuraram a superfície como parte de sua religião, e lentamente começaram a falar como os nômades próximos para uni-los abaixo da luz do Luxon.
 
 Como a primeira nação de Xhorhas pós-Calamidade, a Dinastia Kryn trabalhou para expandir seu alcance através da região para trazer união as tribos e criaturas. Perigos dormentes continuavam a surgir de abaixo da terra de Xhorhas, espalhando caos e lutando com os guerreiros que chamavam este vale desolado de casa. A dificuldade de converter os cidadãos de Wynandir Oriental para a luz do Luxon continua até hoje, enquanto os agentes de Lolth procuram destruir estes traidores por suas arrogâncias.

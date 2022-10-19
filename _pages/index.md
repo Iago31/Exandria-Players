@@ -12,10 +12,12 @@ permalink: /
 </p>
 Informações de Exandria para os players, mais precisamente de *Wildemount* que é onde vai se passar a campanha.
 
-Segue os index aí:
-- [[Index - Geografia]]
-- [[Index - História]]
-- [[Index - Panteão]]
+Para uma introdução ao continente de Wildemount e Exandria em um geral, veja [[Bem-Vindo a Wildemount!]]
+
+Para outras informações, siga os indexes:
+- [[🗺 Geografia]]
+- [[📜 História]]
+- [[🔮 Panteão]]
 
 <style>
   .wrapper {
