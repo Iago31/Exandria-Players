@@ -18,7 +18,7 @@ tags:
 - **Comércio:** Quase todos os tipos de bens ou serviços podem ser encontrados aqui, legais ou não. O alto volume de viajantes significa que há muitas pousadas, tavernas, mercados subterrâneos e leilões raros.
 - **Organizações:** Templos para os Deuses Primordiais são comuns, e alguns santuários notáveis para os Deuses Traidores são escondidos dentro desta grande cidade. As numerosas guildas mercantes administram a maioria dos negócios, mas a Míriade é o verdadeiro poder por trás das próprias guildas.
 
-![Mapa Porto Damali|center|500](https://github.com/Iago31/Exandria-Players/blob/master/assets/Mapa%20Porto%20Damali.png?raw=true)
+![Mapa Porto Damali|500](https://github.com/Iago31/Exandria-Players/blob/master/assets/Mapa%20Porto%20Damali.png?raw=true)
 
 A jóia do Litoral das Bestas, a colônia Marquêsa original e a capital não-oficial do livre comércio fora do império, Porto Damali é uma cidade movimentada cheia de música, cor e comércio. O enorme porto abriga navios de todo o mundo, criando uma mistura de culturas e ofícios que se misturam para formar a sociedade de Porto Damali. As rotas comerciais se separam de todos os outros lados da cidade para garantir o transporte rápido de mercadorias para destinos em Wildemount e além.
 

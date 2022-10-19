@@ -8,7 +8,7 @@ tags:
 ---
 
 # **Porto-Negro**
-![[Porto-Negro.png]]
+![Porto-Negro|500](https://github.com/Iago31/Exandria-Players/blob/master/assets/Porto-Negro.png?raw=true)
 **Links:** [[Ilha Porto-Negro]]
 
 ---

@@ -12,7 +12,7 @@ tags:
 **Links:** [[Litoral das Bestas]]
 
 ---
-![[Nicodranas.png]]
+![Nicodranas|500](https://github.com/Iago31/Exandria-Players/blob/master/assets/Nicodranas.png?raw=true)
 - **População:** 31,900 (68% humanos, 13% halflings, 8% anões, 10% outras raças.)
 - **Governo:** A cidade é governada pelo Marquês Zhafe Uludan, que mantém sua posição através dos laços de sua família com o Império Dwendaliano.
 - **Defesas:** Um exército respeitável permanece estacionado dentro de Nicodranas para dissuadir a tolice do império. Zhelezos se misturam com pequenos esquadrões de Guardas da Coroa imperial. Nobres e diplomatas poderosos também mantêm mercenários e guardas contratados.
