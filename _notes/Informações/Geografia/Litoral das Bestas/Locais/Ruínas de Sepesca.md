@@ -9,7 +9,7 @@ tags:
 
 # **Ruínas de Sepesca**
 
-**Links:** [[]]
+**Links:** [[Litoral das Bestas]]
 
 ---
 Nos séculos que se seguiram à Calamidade, o povo Ki'Nau estabeleceu Sepesca, que significa "==Fim da Natureza"==, como o mais sagrado dos templos funerários, construído sobre um bosque exuberante onde se diz que o sangue da [[Melora|Mãe Selvagem]] se derramou antes da Divergência. Cada sacerdote de Ki'Nau e rei que morreu foi enterrado dentro da estrutura de pedra maciça de Sepesca.

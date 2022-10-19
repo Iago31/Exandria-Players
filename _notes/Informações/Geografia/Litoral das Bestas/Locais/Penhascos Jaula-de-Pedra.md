@@ -9,7 +9,7 @@ tags:
 
 # **Penhascos Jaula-de-Pedra**
 
-**Links:** [[]]
+**Links:** [[Litoral das Bestas]]
 
 ---
 Uma cordilheira escarpada e quase intransponível de montanhas costeiras e penhascos que envolve toda a península nordeste de Wildemount, os Penhascos Jaula-de-Pedra têm sido uma barreira natural entre Wildemount e Tal'Dorei desde antes das sociedades de cada continente começarem a se comunicar. Os penhascos cercam a densa e perigosa Floresta Intestino-Viçoso, e essa combinação de terreno mortal tornou a maioria dos penhascos impróprios para a construção de vilas ou cidades. Como tal, a região permaneceu um deserto infestado de monstros desde tempos imemoriais.

@@ -24,8 +24,3 @@ Repleto de ar úmido cheirando a água velha e madeira mofada, o pântano de Oth
 > **Folha de Olisúba.** Essas folhas secas da árvore Olisuba, quando embebidas para fazer um chá, podem ajudar o corpo a se recuperar de atividades extenuantes. Se você beber uma dose de chá de Olisuba durante um descanso longo, seu nível de exaustão será reduzido em 2 em vez de l ao final desse descanso longo. *Custo: 50 po por dose.*
 >
 > **Óleo de Salgueiro-Sombrio.** Um óleo azul escuro pode ser extraído do fruto raro da planta de salgueiro-sombrio. Uma criatura pode usar sua ação para aplicar o óleo em outra criatura que foi petrificada por menos de 1 minuto, fazendo com que a condição petrificada naquela criatura termine no início do que seria o próximo turno daquela criatura. *Custo: 30 po por dose.*
-
-### **Aventuras em Othemoor**
-A lama de Othemoor está cheia de corpos, tesouros e coisas ainda mais misteriosas. 
-
-**Diamantes de Sangue (Alto Nível).** Quando vários diamantes são revelados pela mudança da sujeira de Othemoor, muitos aventureiros, incluindo os personagens, dirigem-se para o pântano, na esperança de enriquecer. Os diamantes foram na verdade plantados por Pillia Ravenosa, uma **vampira**, para trazer presas para o Othemoor para suas **crias vampíricas**(vampire spawn).

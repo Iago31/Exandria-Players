@@ -9,7 +9,7 @@ tags:
 
 # **Ilha Porto-Negro**
 
-**Links:** [[Portno-Negro]]
+**Links:** [[Porto-Negro]], [[Litoral das Bestas]]
 
 ---
 A rocha vulcânica que forma as falésias irregulares da Ilha Porto-Negro é muito variada em altura e forma, criando a impressão de uma boca enorme e cheia de dentes. Essas rochas escondem muitas cavernas e túneis que inspiraram vários mitos locais de esconderijos secretos e bestas lendárias. A ilha é desprovida de vegetação, exceto pela bacia verdejante em seu centro, conhecida pelos habitantes locais como ==o Poço==. Este pequeno bolsão de selva é a maior fonte de recursos naturais da ilha, e suas frutas, caça e madeira sustentam o refúgio pirata em tempos de vacas magras.

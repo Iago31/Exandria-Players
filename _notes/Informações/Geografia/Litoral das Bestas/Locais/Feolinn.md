@@ -9,7 +9,7 @@ tags:
 
 # **Feolinn**
 
-**Links:** [[]]
+**Links:** [[Litoral das Bestas]]
 
 ---
 - **População:** 12,700 (73% humanos, 10% elfos, 5% gnômos, 12% outras raças)
@@ -44,9 +44,3 @@ Atividade criminosa visível, violenta e imprópria é rapidamente reprimida par
 
 ### **Geografia**
 Apoiada contra a linha de árvores ao sul dos [[Bosques Opulentos]] e cercada por uma série de pequenas fazendas familiares, Feolinn está repleta de charme rural. A cidade em si é composta por quatro estradas principais que formam um grande retângulo, com cada esquina terminando em um calçadão cheio de lojas e bares, enquanto o centro da cidade é composto principalmente por casas residenciais e propriedades afluentes. O Caminho Suamalie é especializado em comida e jantares finos, enquanto a Aveninda Alt'afi tem teatros, casas de banho, salões de jogos e outros locais para entretenimento privado. A Rua Minceli contém prédios administrativos e quartéis de Zhelezo, e a Rua Sayer é o lar de muitos dos colhedores locais e da classe trabalhadora.
-
-### **Aventuras em Feolinn**
-
-**Lábios Soltos (Nível Baixo):** Os personagens são convidados para uma feira de álcool em toda a cidade, onde as vinícolas e destilarias de Feolinn inserem seus produtos para concorrer a prêmios. A feira é secretamente patrocinada pela Míriade, que planeja pegar as pessoas bêbadas mais influentes da cidade e aprender seus segredos para usar como chantagem. Os personagens ficam sabendo deste plano e devem decidir se devem parar a Míriade ou entrar no plano.
-
-**Apoio de Celebridades (Qualquer Nível):** Depois que os personagens ganham reconhecimento por seus feitos, as vinícolas e destilarias concorrentes em Feolinn tentam convencê-los a se tornarem porta-vozes oficiais de suas marcas, oferecendo dinheiro e bebida grátis. Se os personagens aceitam uma oferta, as empresas rejeitadas se voltam contra eles, tentando envergonhar os personagens a cada passo e contratando aventureiros rivais para levar crédito por suas realizações.

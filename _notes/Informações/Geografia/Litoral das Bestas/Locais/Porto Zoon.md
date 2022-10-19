@@ -37,9 +37,3 @@ A ==Esfera do Ancoradouro== é um distrito oblongo onde residem as docas, negóc
 A ==Esfera Sentinela== oriental é dividida entre casas pobres, templos humildes e os quartéis da ==Fortaleza Sentinela==, onde muitos Guardiões do Litoral do exército da Concórdia de Clóvis permanecem até serem chamados. 
 
 A ==Esfera do Martelo== central é o maior distrito e o nexo para os outros. Aglomerados casebres e alojamentos estudantis formam o anel externo, enquanto as fábricas, forjas e escolas mais industriosas se agrupam em torno do centro do **Templo Genesis** do [[Moradin|Martelo da Criação]].
-### **Aventuras em Porto Zoon**
-Os personagens podem vir a Porto Zoon em busca de armas e armaduras incríveis e depois se envolver em aventuras pela cidade.
-
-**Revolta Criminal (Nível Baixo).** Enquanto os personagens visitam Porto Zoon, bandidos capturados forçados a trabalhar para as guildas rompem seus laços, dominam seus captores e libertam outros bandidos que trabalham na cidade. Esses criminosos assumem o controle de indústrias vitais em Porto Zoon, ameaçando destruir locais industriais a menos que sejam libertados. Os personagens são contratados para reprimir a revolta. Quem está por trás dessa revolta? Talvez os próprios criminosos o tenham planejado - ou talvez uma organização externa o tenha projetado para seus próprios propósitos.
-
-**Concurso de Ferrarria (Qualquer Nível).** Os personagens ficam sabendo de um concurso de ferraria a ser realizado em Porto Zoon. O vencedor recebe um conjunto de ferramentas de ferreiro mágicas e orientação gratuita de um mestre no ofício. Se algum personagem participar, eles devem ser cautelosos: a Míriade quer essas ferramentas, e a competição é será bem acirrada (e suja).

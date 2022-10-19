@@ -13,7 +13,7 @@ tags:
 
 ---
 - **População:** 18,900 (63% elfos, 16% humanos, 11% gnomos, 10% outras raças)
-- **Governo:** A cidade é governada pelos quatro ==Noldar==, um dos quais deve atuar como marquês
+- **Governo:** A cidade é governada pelos quatro ==Noldar==, um dos quais deve atuar como marquês.
 - **Defesas:** Gwardan tem uma força respeitável de Zhelezo, mercenários e milícias cidadãs treinadas. Anciãos e figuras proeminentes mantêm uma pequena guarda pessoal.
 - **Comércio:** A maioria dos bens e instalações básicas pode ser encontrada na cidade, enquanto as mercadorias mais raras são escassas. Pousadas e tavernas são limitadas em comparação com outras cidades costeiras
 - **Organizações:** As Casas da Sagacidade (veja "Geografia" abaixo) são o centro de adoração, embora pequenos santuários pontilham a cidade. A Concórdia de Clóvis está envolvida nos assuntos da cidade, embora mantido periférica pelos Noldar. Interesses da Míriade estão invadindo lentamente.
@@ -35,7 +35,3 @@ Embora o Marquês Atrith esteja disposto a permitir que pessoas de fora visitem 
 Gwardan é uma cidade lindamente rústica, mas elegantemente refinada de madeira manchada e ouro que se ergue dos campos de grama alta varridos pelo vento, terras agrícolas cultivadas e árvores agrupadas das planícies frias do norte. O anel externo da cidade, chamado ==Anel Anorans==, é composto por inúmeras residências abobadadas de madeira curvada e casca esculpida onde as famílias fazem suas casas. As ==Casas da Sagacidade== formam uma região de prestígio onde três templos construídos para adoração também fornecem uma variedade de estudos avançados para um corpo estudantil limitado. Estas são a ==Casa da Iluminação sob Ioun==, ==a Casa da Invenção sob Moradin== ==e a Casa do Encantamento sob Corellon==.
 
 ==O Anel Korrwa== é o anel interno de Gwardan, onde os negócios são realizados entre mascates, comerciantes e artesãos. Dentro desse anel está a ==Ornatora==, uma torre maciça de madeira treliçada em espiral para cima como uma árvore sem folhas. Casas e câmaras em forma de disco se projetam da torre em intervalos variados, concedendo ao povo rico da cidade uma vista magnífica. Os picos da torre abrigam os Noldar, bem como as câmaras centrais de reuniões onde ocorrem as discussões políticas locais.
-
-### **Aventuras em Gwardan**
-
-**Traga-os de Volta (Nível Baixo):** Talamin Raanan (**capitã bandida** caótica e neutra, Elfa Alta) já trabalhou para as tribos do Córrego Riacho-Sombrio como assassina. A elfa desapareceu há cinco anos, mas espiões relatam que ela reside em Gwardan sob o nome de Valemis Tirdra. Uma das Tribos do Córrego Riacho-Sombrio, ou uma facção que quer ver Talamin pagar por seus crimes, contrata os personagens para capturar a elfa. Quando os personagens encontram Talamin, eles descobrem que tudo o que ela deseja é deixar seu passado violento para trás e viver seus dias com sua nova família, incluindo seus dois filhos pequenos.

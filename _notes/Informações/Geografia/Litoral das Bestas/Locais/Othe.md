@@ -33,7 +33,3 @@ Por mais atento que o marquês pretenda ser, a crescente demanda pelas ervas med
 Com a forma de um grande crescente, este assentamento é construído em uma série de cinco pequenas massas de terra que se elevam acima da linha d'água do Othemoor. Essas massas de terra são todas conectadas por pontes, e cada um dos distritos da cidade é construído no topo de uma ou mais dessas ilhas. Em primeiro lugar, a ==Lavagem== é um bairro residencial cujas casas foram construídas com tijolos feitos de barro vermelho do pântano. O porto, conhecido como ==Docas Áridas==, é onde pequenos barcos e prédios de armazenamento são usados pelos trabalhadores da cidade para coletar recursos. Os Apa-feids formam o núcleo central da cidade, com edifícios mais modernos e o salão elevado onde reside o marquês. Aqui, um círculo de pequenos templos representa o principal panteão.
 
 Enquanto os ventos são frequentemente terrestres e misturados com o ar do pântano, o estilo de vida mais simples e pastoral de Othe é mais relaxado e espiritual do que outros locais ao longo da costa.
-### **Aventuras em Othe**
-Os personagens podem vir a Othe para buscar orientação em um dos muitos templos da cidade.
-
-**Buscando Desorientação (Qualquer Nível).** Um oficial da Concórdia de Clóvis está em Othe buscando orientação sobre como lidar com a Míriade. A organização criminosa contrata os personagens para posarem como guias sagrados e convencer o oficial a trabalhar com a Míriade em vez de contra eles.

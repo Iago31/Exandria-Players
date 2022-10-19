@@ -9,7 +9,7 @@ tags:
 
 # **Urukayxl**
 
-**Links:** [[]]
+**Links:** [[Litoral das Bestas]]
 
 ---
 A ilha de Urukayxl já foi o local do templo do leviatã [[Uk'otoa]]. Muitos séculos atrás, os malvados seguidores de [[Zehir]] assassinaram os adeptos de Ki'Nau de Uk'otoa e usaram o templo como o selo que impedia Uk'otoa de retornar ao Plano Material.

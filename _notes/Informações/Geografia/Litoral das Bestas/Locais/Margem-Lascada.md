@@ -30,7 +30,3 @@ Os marinheiros que transportam mercadorias pelo oceano muitas vezes tentam tirar
 
 ### **Geografia**
 O movimentado porto consiste em uma rua principal curva que segue a forma da enseada, formando um semicírculo alongado voltado para o oceano do norte. Não é incomum ver o porto cheio de navios atracados enquanto outros navios ancoram no porto, ansiosos para abrir vagas. A forte brisa do mar mantém os moradores frescos sob o sol escaldante que coze a terra e a areia ao longo das margens do assentamento
-### **Aventuras em Margem-Lascada**
-Os personagens podem vir a Margem-Lascada para comprar ou vender um navio ou itens exóticos, ou encontrar um mercador contratando aventureiros para proteção.
-
-**Pela Míriade! (Nível Baixo):** Agentes da Míriade contratam os personagens para encontrar informações que possam usar para chantagear o Protetor do Porto Mazin Fahreed. Que evidências os personagens podem encontrar dos atos sujos do porteiro?
