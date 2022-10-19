@@ -1,17 +1,9 @@
-# ==**O Luxon,** a Primeira Luz==
-![[Luxon.png|right|300]]
+# **O Luxon,** a Primeira Luz
+![Símbolo Luxon](https://github.com/Iago31/Exandria-Players/blob/master/assets/Luxon.png?raw=true)
 
 Poucos ouviram falar do Luxon em Exandria, e ainda menos acreditam que ele existe. O Luxon é a central divindade da Dinastia Kryn e a sua maneira de viver, mas os estudos do Luxon através das fronteiras de Xhorhas apenas começou- e tais estudos são principalmente motivados pelo desejo do Império Bastyran para ganhar mais vantagens na guerra.
 
-O Luxon não tem uma consciência ativa ou personalidade. A adoração dele é largamente apenas um sistema de pura fé, apoiada pelas verdades cientificas e metafisicas que proveem dos faróis e dos Umavi que interpretam seus significados. Sacerdotes do Luxon geralmente estudam Dunamismo e sua natureza arcana primal, enquanto outros nascem com os presentes dunâmicos garantidos pelos poderes de dobrar realidades dos faróis. Aqueles que mexem com fios mais raros de divindade usam os próprios faróis como uma fonte de poder
+O Luxon não tem uma consciência ativa ou personalidade. A adoração dele é largamente apenas um sistema de pura fé, apoiada pelas verdades cientificas e metafisicas que proveem dos faróis e dos Umavi que interpretam seus significados.
 
-> [!important]- **Origens do Luxon**
-> De acordo com os ensinamentos da Dinastia e dos Umavi que asseguram sua fé, acredita-se que a muito antes dos deuses de Exandria viessem e moldassem o mundo, existia um tempo onde uma única Luz surgiu da escuridão do vazio. Outras luzes formaram-se em volta desta, assentando-se como as estrelas do cosmos. Está única Luz, entretanto, resistiu a força que a persuadia a queimar como suas irmãs. Esta única luz queria entender o que eram e escolheu vagar sozinha, trilhando um diferente caminho. Esta escolha levou a infinitas extensões de solitária escuridão, as vozes das estrelas silenciosas para a Luz que andava para longe. Solitária, ela vagou até que achou uma gelada e escura rocha: um mundo. A Luz apaixonou-se por esta rocha, a vendo solitária como si, e a abraçou. A Luz acendeu chamas no interior, rachando a superfície e dando uma vida ardente ao gelado mundo. De dentro do núcleo escaldante, a Luz assistiu o mundo mudar e girar, o caos gerando as primeiras almas: os Elementais.
-> 
-> Maravilhada com suas crianças, a Luz queria guia-los a aprender sobre si, que em troca poderia ajudar a Luz a descobrir sua própria identidade – mas as crianças guerrearam entre si e mataram uns aos outros, suas almas crescidas pela Luz tornando-se perdidas na escuridão eterna. Confusa mais determinada, a Luz decidiu que um tempo de aprendizado era necessário, e que um ciclo de tentativa e erro deveria ser feito para que suas crianças do caos melhorassem a si. Sacrificando grande parte de sua própria essência, a Luz criou faróis de sua mais pura energia, cristais de grande poder que ordenavam um ciclo de renascimento para aqueles ligados a Luz.
-> 
-> Este ato exauriu a Luz, que então caiu em um profundo sono dentro do núcleo do mundo, esperando a hora em que suas crianças de sua própria criação iriam aprender vida após vida, através de éons de esforço e reflexão, até que o conhecimento amadurecesse o suficiente para a montar novamente, a acordar, e as crianças poderiam garantir a resposta para a questão que a Luz buscou desde o início: O que são eles, e qual é o seu propósito?
-> 
-> A Luz agora é reverenciada pelos mortais seguidores da Dinastia Kryn como o Luxon.
 ### **Aparência**
 De todas as origens, acredita-se que a forma original do Luxon é um colossal, corpo sem forma de uma impossível luz brilhante, como uma estrela queimante. Seguidores do Luxon carregam pequenos, geralmente ocos, dodecaedros como um símbolo de sua fé.

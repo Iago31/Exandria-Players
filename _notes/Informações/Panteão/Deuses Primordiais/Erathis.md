@@ -1,5 +1,5 @@
-# ==**Erathis,** a Autora da Lei==
-![[Símbolo de Erathis.png|right|300]]
+# **Erathis,** a Autora da Lei
+![Símbolo Erathis](https://github.com/Iago31/Exandria-Players/blob/master/assets/S%C3%ADmbolo%20de%20Erathis.png?raw=true)
 
 A inspiração de muitas grandes invenções, a criação de vastas cidades e da lei e ordem de uma sociedade, Erathis clama o domínio sobre a civilização. Juízes e líderes prestam respeito em seus templos, que são estruturas centrais em muitas cidades de Exandria. Paz e ordem através de estrutura e lei guia a vontade de seus devotos seguidores. A Autora da Lei tem um tempestuoso romance com Melora, a Mãe Silvestre, um amor furioso que é temperado apenas quando a civilização e a natureza estão em equilíbrio.
 

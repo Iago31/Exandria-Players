@@ -1,5 +1,5 @@
-# ==**Tharizdun,** o Oblívio Acorrentado==
-![[Símbolo de Tharizdun.png|right|250]]
+# **Tharizdun,** o Oblívio Acorrentado
+![Símbolo Tharizdun](https://github.com/Iago31/Exandria-Players/blob/master/assets/S%C3%ADmbolo%20de%20Tharizdun.png?raw=true)
 
 Ele é a escuridão sem fim, menos um deus e mais outro mundo. Vida e morte não existem dentro de Tharizdun, apenas pura destruição e loucura. Até os outros Deuses Traidores tratam o deus enlouquecido com cautela. Em seu infinito aprisionamento, Tharizdun sonha as infinitas profundezas do Abismo para a realidade, junto com todas as suas legiões demoníacas. Os Deuses Primordiais pensaram que ele estava aprisionado durante a Fundação até que ele quase retornou para arruinar o mundo durante os conflitos da Calamidade. Agora, sua mente caótica caiu em sonhos mais aterrorizantes, imaginando aberrações horrendas para a existência abaixo de Exandria. Os dementes cultistas do Oblívio Acorrentado
 

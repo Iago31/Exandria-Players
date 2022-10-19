@@ -1,5 +1,5 @@
-# ==**Raei,** a Onipresente Luz==
-![[Símbolo de Raei.png|right|300]]
+# **Raei,** a Onipresente Luz
+![Símbolo Raei](https://github.com/Iago31/Exandria-Players/blob/master/assets/S%C3%ADmbolo%20de%20Raei.png?raw=true)
 
 Deus da expiação e compaixão, Raei espalha a mensagem de entendimento e otimismo até no mais escuro dos lugares. Ela acredita que os corrompidos podem ser resgatados, um modo de pensar que levou-a ser traída pelo Lorde nos Nove Infernos, que decimou seus seguidores durante a Calamidade. Essa confiança extraviada fez com que muitos sacerdotes removessem seu nome de registros históricos, deixando seu título e fé espalhado na escuridão até boa parte da recente era. Apenas recentemente a sua fé foi redescoberta e seus templos voltar a ter prominência. Os seguidores da Onipresente Luz são geralmente curandeiros rurais e filósofos da comunidade, oferecendo a voz da razão e empatia nestes tempos cínicos e raivosos.
 

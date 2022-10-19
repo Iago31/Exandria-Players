@@ -1,10 +1,9 @@
-# ==**Desirat,** a Fênix do Crepúsculo==
-![[Desirat.png|right|200]]
+# **Desirat,** a Fênix do Crepúsculo
+![Símbolo Desirat](https://github.com/Iago31/Exandria-Players/blob/master/assets/Desirat.png?raw=true)
 
 Desirat era a companheira e montaria de Asmodeus durante a grande guerra da Calamidade. Antes da Divergência, ela foi separada do seu mestre pelos remanescentes da original Assembleia Cérberus, que desejava estudar e colher a forma demoníaca da fênix para seus próprios desejos. Após a destruição da assembleia na guerra e o panteão sendo banido de Exandria, a fênix remanesceu acorrentada abaixo das Montanhas Cyrios. Suas chamas escurecidas escaldaram e queimaram as terras acima por gerações, dando luz a fenômenos termais cercando o Monte Metiri em Wynandir Ocidental.
 
-A sanidade de Desirat fraturou-se com a isolação, levando a desilusões divinas, que ela perpetuava nos corações daqueles que carregavam uma semente de vingança ardente aproximando-se deles com sonhos e visões. Apesar de que uma vez ela
+A sanidade de Desirat fraturou-se com a isolação, levando a desilusões divinas, que ela perpetuava nos corações daqueles que carregavam uma semente de vingança ardente aproximando-se deles com sonhos e visões. Apesar de que uma vez ela conseguiu uma grande quantidade de seguidores com a ajuda dos seguidores de Uk’otoa, que quase conseguiu cavar o suficiente para liberta-la, seus seguidores foram então subjugados e espalhados quando o Domínio Julous tomou poder do Vale da Medula.  Ela agora fala nas mentes daqueles que dormem sentindo desprezo e raiva, chamando-os para liberar suas chamas internas e deixar Desirat ajuda-os em sua vingança.
 
-conseguiu uma grande quantidade de seguidores com a ajuda dos seguidores de Uk’otoa, que quase conseguiu cavar o suficiente para liberta-la, seus seguidores foram então subjugados e espalhados quando o Domínio Julous tomou poder do Vale da Medula.  Ela agora fala nas mentes daqueles que dormem sentindo desprezo e raiva, chamando-os para liberar suas chamas internas e deixar Desirat ajuda-os em sua vingança.
 ### **Aparência**
 Desirat é representada como uma gigante fênix de tons roxos escuros, revestida em chamas da mesma cor. Seu bico em formato de espada tem uma ponta afiada e perigosa, enquanto seus três olhos Onix observam abaixo de brilhantes cílios.

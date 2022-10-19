@@ -1,5 +1,5 @@
-# ==**Moradin,** o Martelo da Criação==
-![[Símbolo de Moradin.png|right|300]]
+# **Moradin,** o Martelo da Criação
+![Símbolo Moradin](https://github.com/Iago31/Exandria-Players/blob/master/assets/S%C3%ADmbolo%20de%20Moradin.png?raw=true)
 
 Moradin é adorado por ferreiros, artesões e mineradores, garantindo inspiração em troca de respeito e orações. Ele moldou as montanhas no caos da [[Fundação]], e situa-se como o patrono protetor do lar e da família. As devoções ao Martelo da Criação são mais fortes em comunidades enânicas, e muitos templos de Moradin marcam o centro de poderosas fortalezas de anões.
 

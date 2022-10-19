@@ -1,5 +1,5 @@
-# ==**Vesh,** a Ninfa Carmesim==
-![[Vesh.png|right|150]]
+# **Vesh,** a Ninfa Carmesim
+![Símbolo Vesh](https://github.com/Iago31/Exandria-Players/blob/master/assets/Vesh.png?raw=true)
 
 Ninguém sabe se Vesh é uma bruxa ou semideusa, mas ela andou por Exandria por séculos, seduzindo aqueles que desejam por magias esquecidas e atraindo-os a ela como possíveis pretendentes. Acólitos cultivam seitas de seguidores que engajam em orgias ritualísticas e rituais masoquistas, estes rituais hedonistas culminando com a sua seleção de parceiro. Vesh se alimenta dos não escolhidos em um massacre sangrento antes de dormir com o sobrevivente selecionado e desaparecer em seu reino. Quando suas essências são entrelaçadas, ela oferece a sua força para o parceiro, assistindo-os pelo resto da vida.
 

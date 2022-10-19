@@ -1,5 +1,5 @@
-# ==**Uk'otoa,** o Lorde Leviatã==
-![[Uk'otoa.png|right|250]]
+# **Uk'otoa,** o Lorde Leviatã
+![Símbolo Uk'otoa](https://github.com/Iago31/Exandria-Players/blob/master/assets/Uk'otoa.png?raw=true)
 
 Uk’otoa foi criado por Zehir e aterrorizou os mares de Wildemount até que a Divergência deixou o Leviatã sem mestre ou objetivo. Os povos selvagens sobreviventes das Ilhas Swavain, os Ki’Nau, adotaram Uk’otoa como seu guia e deus que comanda as águas e os traz prosperidade. O leviatã elevou os Ki’Nau a conquistar as costas do sul do continente até que a invejosa vontade de Zehir atravessou o Portão Divino e descobriu a insolência de sua criação, comandando os seus seguidores para sela-lo abaixo da base rochosa do Oceano Lucidian.
 

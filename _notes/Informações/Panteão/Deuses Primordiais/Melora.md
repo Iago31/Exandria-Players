@@ -1,5 +1,5 @@
 # ==**Melora,** a Mãe Silvestre==
-![[Símbolo de Melora.png|right|300]]
+![Melora](https://github.com/Iago31/Exandria-Players/blob/master/assets/S%C3%ADmbolo%20de%20Melora.png?raw=true)
 
 O domínio de Melora estende-se até onde os mares mudam e onde a terra cresce mais selvagem. Como a guardiã da selvageria, Melora representa as criaturas selvagens da natureza, a pressa das raivosas correntezas, e o sempre presente calor do deserto. Elfos a cultuam, assim como caçadores, aceitando sua orientação para existir harmoniosamente nas terras ferozes. Aqueles procurando por passagem segura para atravessar perigosas águas rezam para que ela os guie.
 

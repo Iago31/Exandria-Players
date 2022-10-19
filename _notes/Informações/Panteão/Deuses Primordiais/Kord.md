@@ -1,5 +1,5 @@
-# ==**Kord,** o Lorde da Tempestade==
-![[Símbolo de Kord.png|right|300]]
+# **Kord,** o Lorde da Tempestade
+![Símbolo Kord](https://github.com/Iago31/Exandria-Players/blob/master/assets/S%C3%ADmbolo%20de%20Kord.png?raw=true)
 
 Onde trovões explodem e conflitos crescem, rezas para o Lorde da Tempestade são bradados no turbilhão. Superior em todos os testes de força, Kord abençoa aqueles que se provam no campo de batalha. Cultuado por atletas e guerreiros em Exandria, ele exalta aqueles do qual a força, espirito e o desejo pela vitória chamam sua atenção. Ele traz tumultuosas tempestades sobre terra e mar, e aqueles que desejam por um tempo limpo oferecem louvores e orações para acalmá-lo.
 

@@ -1,5 +1,5 @@
-# ==**Avandra,** a Portadora da Mudança==
-![[Símbolo Avandra.png|right|300]]
+# **Avandra,** a Portadora da Mudança
+![Símbolo Avandra](https://github.com/Iago31/Exandria-Players/blob/master/assets/S%C3%ADmbolo%20Avandra.png?raw=true)
 Também conhecida como “Aquela Que Faz o Caminho”, Avandra representa liberdade, viagens, troca e aventura. Sua vontade abre fronteiras, e seu chamado faz com que seus seguidores descubram aquilo que os espera no desconhecido. Existem poucos templos urbanos dedicados a Portadora da Mudança, mas seus santuários são comumente encontrados em ruas movimentadas e em rotas de troca. Sua adoração é comum entre mercadores, espíritos livres e aventureiros, e tavernas brindam a ela como uma portadora da sorte e fortuna.
 
 ### **Representação**

@@ -1,5 +1,5 @@
-# ==**A Hag Mãe**==
-![[Hag Mãe.png|right|200]]
+# **A Hag Mãe**
+![Símbolo Hag Mãe](https://github.com/Iago31/Exandria-Players/blob/master/assets/Hag%20M%C3%A3e.png?raw=true)
 
 Rumores dizem que ela é a mais velha hag e progenitora de todas as outras hags de Exandria, a Hag Mãe chegou ao mundo logo após a Fundação. Ela procura pelos humanoides que causaram o seu convênio original a ser exilado e prendeu-a em
 

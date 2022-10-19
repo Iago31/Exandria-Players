@@ -1,5 +1,5 @@
-# ==**Bane,** o Imperador do Conflito==
-![[Símbolo de Bane.png|right|125]]
+# **Bane,** o Imperador do Conflito
+![Símbolo de Bane](https://github.com/Iago31/Exandria-Players/blob/master/assets/S%C3%ADmbolo%20de%20Bane.png?raw=true)
 
 Exércitos de brutais guerreiros banhados em sangue geralmente esmagam seus inimigos ao nome de Bane, o patrono da guerra e da conquista. Servir a sua vontade é aceitar o chamado do conflito, procurando pessoas mais fracas para quebrar e subjugar. Nações que instigam guerras e tribos goblinóides geralmente cultuam o Imperador do Conflito enquanto atacam o mundo para curva-lo ao seu domínio. Bane corrompe todas as coisas viva para sua vontade de ferro, forçando até mesmo a natureza em si para se curvar a seus desejos.
 

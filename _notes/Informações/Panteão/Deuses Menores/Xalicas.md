@@ -1,5 +1,5 @@
-# ==**Xalicas**==
-![[Xalicas.png|right|200]]
+# **Xalicas**
+![Símbolo Xalicas](https://github.com/Iago31/Exandria-Players/blob/master/assets/Xalicas.png?raw=true)
 
 A Calamidade tomou a vida de muitos mortais e imortais. Muitos anjos que lutaram com as Divindades Primordiais foram mortos, e muitos dos sobreviventes foram feridos. A solar Xalicas, a mão direita do Coração da Arcada, foi tão ferida que nem mesmo as magias dos deuses puderam ajudar a anja a reganhar sua habilidade de ver, voar, ou sair de Exandria. Por mais de um século, Xalicas jaz quebrada e cega nas Grisalhas Terras Selvagens, musgos e plantas cobrindo seu corpo, até que ela conseguiu a força para mover-se, culpando a si mesma pela pequena ajuda que conseguiu dar durante a Calamidade.
 

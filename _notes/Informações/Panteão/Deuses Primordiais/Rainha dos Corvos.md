@@ -1,5 +1,5 @@
-# ==**A Rainha dos Corvos,** Matrona da Morte==
-![[Símbolo da Rainha dos Corvos.png|right|300]]
+# **A Rainha dos Corvos,** Matrona da Morte
+![Símbolo da Rainha](https://github.com/Iago31/Exandria-Players/blob/master/assets/S%C3%ADmbolo%20da%20Rainha%20dos%20Corvos.png?raw=true)
 
 Mestra da meada do destino e senhora do inverno, a Rainha dos Corvos é a deusa da morte. Seu olhar segue e marca o fim de cada vida mortal, cuidando do fino fio que liga a vida e a morte e fazendo com que a transição natural seja imaculada. Muitos funerais pedem a sua benção para proteger os falecidos da terrível maldição dos mortos-vivos. Aqueles que estudam a história anciã acreditam que a Matrona da Morte já foi uma mortal e é a única mortal conhecida a ascender a divindade. Sua ascendência instantaneamente obliterou o prévio, agora esquecido deus da morte, e outros deuses rapidamente e medrosamente destruíram os segredos para os rituais de ascensão.
 

@@ -1,5 +1,5 @@
-# ==**Torog,** o Rei Rastejante==
-![[Símbolo de Torog.png|right|230]]
+# **Torog,** o Rei Rastejante
+![Símbolo de Torog](https://github.com/Iago31/Exandria-Players/blob/master/assets/S%C3%ADmbolo%20de%20Torog.png?raw=true)
 
 O deus dos tuneis e cavernas sem fim abaixo de Exandria, Torog é o patrono de torturadores, escravizadores e carcereiros através dos reinos. Suas violentas lagrimas entalharam as passagens abaixo do mundo, e seus reinos de aprisionamento são uma rede de mortíferas cavernas e algemas que poucos retornam. Criaturas que vagam a desolação de Carceri geralmente constroem prisões em sua imagem. Aqueles que roubam outros de sua liberdade oferecem orações a ele celas e outros domínios subterrâneos, e muitas criaturas que vivem na escuridão]ao abaixo o cultuam e procuram por sua orientação.
 

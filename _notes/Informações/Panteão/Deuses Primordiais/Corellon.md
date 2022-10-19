@@ -1,5 +1,5 @@
-# ==**Corellon,** o Coração da Arcada==
-![[Símbolo de Corellon.png|right|300]]
+# **Corellon,** o Coração da Arcada
+![Símbolo Corellon](https://github.com/Iago31/Exandria-Players/blob/master/assets/S%C3%ADmbolo%20de%20Corellon.png?raw=true) 
 
 Guardião da primavera, beleza e arte, Corellon é patrono de magia arcana e feérica. A [[Fundação]] o inspirou a vagar pela terra recém-formada e semeá-la com as primeiras magias arcanas e crescendo a mais anciã das florestas. Foi pela mão do Coração da Arcada que os primeiros elfos vagaram por Faéria, e por essa razão ele é considerado o Pai e Mãe de todos os Elfos. Aqueles que procuram por arte em seus trabalhos, sejam mundanos ou mágicos, regularmente adoram Corellon. Ele detesta a Rainha das Aranhas e seus sacerdotes por tirarem os Drows de sua luz.
 

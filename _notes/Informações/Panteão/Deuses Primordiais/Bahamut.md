@@ -1,5 +1,5 @@
-# ==**Bahamut,** o Dragão de Platina==
-![[Símbolo de Bahamut.png|right|300]]
+# **Bahamut,** o Dragão de Platina
+![Bahamut](https://github.com/Iago31/Exandria-Players/blob/master/assets/S%C3%ADmbolo%20de%20Bahamut.png?raw=true)
 O pilar da justiça, proteção, nobreza e honra, Bahamut é um farol de paladinos de ordem e bondade, e é reverenciado por quase todos os dragões metálicos como o primeiro de sua raça. A insígnia do Dragão de Platina adorna muitos salões de alto calibre e honra, invocando sua vontade em todas as maneiras de justiça. Seguir Bahamut é cuidar daqueles que não podem cuidar de si.
 
 Quando não está vagando pelos Planos Exteriores, Bahamut reside em seu magnifico e brilhante palácio de ouro, platina e mitral escondido entre os ventos dos Sete Mares de Celestia.

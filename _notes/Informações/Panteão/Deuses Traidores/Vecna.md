@@ -1,5 +1,5 @@
-# ==**Vecna,** o Murmurado==
-![[Símbolo de Vecna.png|right|200]]
+# **Vecna,** o Murmurado
+![Símbolo de Vecna](https://github.com/Iago31/Exandria-Players/blob/master/assets/S%C3%ADmbolo%20de%20Vecna.png?raw=true)
 
 O lorde dos lichs, Vecna preside acima de todos os magos do mal, políticos corruptos, e invejosos servos como o deus da necromancia, mortos-vivos e segredos. Uma vez um poderoso e sábio arquivado que se tornou um lich, sua fome por domínio acima de todos os mistérios e a obsessão em conquistar o panteão o levou a sua própria dissolução, deixando para trás apenas sua mão esquerda e olho. Seu espirito reformou-se através das eras e ele conseguiu reconstruir os ritos de ascensão da Rainha dos Corvos e se tornou o mais novo dos Deuses a andar por Exandria. Derrotado pelo lendário grupo de heróis Vox Machina, e selado através do Portão Divino, o Murmurado agora quietamente comanda aquilo que não é feito para ser conhecido.
 

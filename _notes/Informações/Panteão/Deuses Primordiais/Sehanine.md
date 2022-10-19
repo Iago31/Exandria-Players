@@ -1,5 +1,5 @@
-# ==**Sehanine,** a Tecelã da Lua==
-![[Símbolo de Sehanine.png|right|300]]
+# **Sehanine,** a Tecelã da Lua
+![Símbolo Sehanine](https://github.com/Iago31/Exandria-Players/blob/master/assets/S%C3%ADmbolo%20de%20Sehanine.png?raw=true)
 
 Sehanine é a deusa do luar e da estação de outono, assim como o a matrona das ilusões e da enganação. Amplamente adorada nas culturas Élficas e Halflings, ela é considerada uma divindade do amor, protegendo os encontros de seres apaixonados com as sombras de sua própria autoria. Aqueles que trabalham na escuridão e na enganação geralmente pedem por sua benção.
 

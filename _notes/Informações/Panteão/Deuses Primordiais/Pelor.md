@@ -1,5 +1,5 @@
-# ==**Pelor,** o Pai do Amanhecer==
-![[Símbolo de Pelor.png|right|300]]
+# **Pelor,** o Pai do Amanhecer
+![Símbolo Pelor](https://github.com/Iago31/Exandria-Players/blob/master/assets/S%C3%ADmbolo%20de%20Pelor.png?raw=true)
 
 Pelor governa o sol e o verão, sua vigília cercando as eras como o guardião do tempo. Como o lorde da agricultura e do prenuncio da colheita, ele é adorado por fazendeiros e a maioria do povo comum, e seus sacerdotes são bem-vindos em muitas terras. Apoiador dos necessitados e destruidor do mal, o Pai do Amanhecer é geralmente o patrono de paladinos e patrulheiros que seguem um credo similar. Ele também é conhecido por derrotar o [[Oblívio Acorrentado]] e é reverenciado por aqueles que caçam aberrações.
 

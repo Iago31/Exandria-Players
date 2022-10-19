@@ -1,5 +1,5 @@
-# ==**O Viajante**==
-![[Viajante.png|right|250]]
+# **O Viajante**
+![Símbolo Viajante](https://github.com/Iago31/Exandria-Players/blob/master/assets/Viajante.png?raw=true)
 
 Esta poderosa arquifada de intenção egoísta e anarquista, que uma vez foi conhecida pelo nome Artagan, conquistou a ira de Corellon um milênio atrás com suas brincadeiras no plano Material que deixaram uma cultura élfica inteira adorando uma carcaça de baleia. Banido de
 

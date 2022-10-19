@@ -1,5 +1,5 @@
-# ==**Gruumsh,** a Perdição==
-![[Símbolo de Gruumsh.png|right|200]]
+# **Gruumsh,** a Perdição
+![Símbolo Gruumsh](https://github.com/Iago31/Exandria-Players/blob/master/assets/S%C3%ADmbolo%20de%20Gruumsh.png?raw=true)
 
 Gruumsh comanda hordas de lutadores barbáricos para destruí, pilhar e matar pelo prazer que isso lhes da. Sem ordem e honra, os fiéis do dominador do mal instigam criaturas selvagens a devorarem o mundo envolta delas, perdendo-se para a
 

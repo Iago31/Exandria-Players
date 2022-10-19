@@ -1,5 +1,5 @@
-# ==**Ceratos**==
-![[Ceratos.png|right|200]]
+# **Ceratos**
+![Símbolo Ceratos](https://github.com/Iago31/Exandria-Players/blob/master/assets/Ceratos.png?raw=true)
 
 Uma entidade que deslizou dos reinos distantes para Exandria antes da Fundação, Ceratos é uma das mais velhas criaturas do mundo. Uma criatura única de muitas mentes, Ceratos adora o caos. Quando o Caos Elemental foi dividido em quatro planos, Ceratos recuou para o subterrâneo, suas mentes desataram-se enquanto entravam em um descanso perturbado
 

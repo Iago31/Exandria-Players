@@ -6,8 +6,8 @@ tags:
 - deus
 - traidor 
 ---
-# ==**Lolth,** a Rainha Aracnídea==
-![[Símbolo de Lolth.png|right|150]]
+# **Lolth,** a Rainha Aracnídea
+![Símbolo de Lolth](https://github.com/Iago31/Exandria-Players/blob/master/assets/S%C3%ADmbolo%20de%20Lolth.png?raw=true)
 
 A maléfica deusa da enganação, sombras e aranhas, Lolth tece uma complicada teia de esquemas e traições através de seus seguidores, enganando aliados e inimigos para ganhar poder. É dito que a Rainha Aracnídea pode ver pelos olhos de todas as aranhas, e que ela é onisciente. A adoração de Lolth está associada com a sociedade de elfos negros em boa parte de Exandria, mas ela perda sua influência em Wildemount durante a Calamidade, quando os Drows rejeitaram-na em troca do favor de uma entidade anciã conhecida como o Luxon. Este ato trouxe sua venenosa raiva, e ela agora busca vingança contra aqueles que a traíram.
 

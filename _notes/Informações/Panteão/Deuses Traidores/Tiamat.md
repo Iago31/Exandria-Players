@@ -1,5 +1,5 @@
-# ==**Tiamat,** a Tirana Encouraçada==
-![[Símbolo de Tiamat.png|right|180]]
+# **Tiamat,** a Tirana Encouraçada
+![Símbolo de Tiamat](https://github.com/Iago31/Exandria-Players/blob/master/assets/S%C3%ADmbolo%20de%20Tiamat.png?raw=true)
 
 A rainha dos dragões é uma apavorante rainha da ganancia, inveja, e tesouro acumulado. Enquanto os dragões cromáticos são seus mais comuns seguidores, Tiamat aceita a adoração de qualquer um que deseja riquezas. Todos os dragões cromáticos tem uma fé recheada em medo por sua rainha tirânica, mas muitos dos dragões com poder e ambição quase divinos zombam de seus comandos.
 

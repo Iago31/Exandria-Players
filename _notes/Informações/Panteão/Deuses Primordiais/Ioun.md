@@ -1,5 +1,5 @@
-# ==**Ioun,** a Sábia Mentora==
-![[Símbolo de Ioun.png|right|300]]
+# **Ioun,** a Sábia Mentora
+![Símbolo Ioun](https://github.com/Iago31/Exandria-Players/blob/master/assets/S%C3%ADmbolo%20de%20Ioun.png?raw=true)
 
 Reverenciada por videntes, sábios e professores de todas as esferas da vida, Ioun guiou o crescimento da civilização na [[Era de Arcanum]] como a luz do sol guia os galhos de uma arvore. Gravemente ferida pelo [[Oblívio Acorrentado]] durante a [[Calamidade]], seus seguidores são agora caçados pelos agentes de seu inimigo ancião enquanto se recupera. Seus devotos agora a cultuam privadamente, espalhando conhecimento, filosofia e história anonimamente através de meios disfarçados.
 

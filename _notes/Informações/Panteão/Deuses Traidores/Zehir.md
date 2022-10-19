@@ -1,5 +1,5 @@
-# ==**Zehir,** a Serpente Oculta==
-![[Símbolo de Zehir.png|right|200]]
+# **Zehir,** a Serpente Oculta
+![Símbolo de Zehir](https://github.com/Iago31/Exandria-Players/blob/master/assets/S%C3%ADmbolo%20de%20Zehir.png?raw=true)
 
 Um vagante das sombras e o criador das cobras e da família das serpentes em geral, Zehir é o deus dos venenos, assassinos e da escuridão. As famílias de serpentes anciãs cultuam Zehir acima de todas as outras divindades, fazendo terríveis e numerosas oferendas em seus templos para honra-lo. A maioria dos servos da Serpente Oculta foram aniquilados durante a Calamidade, e o resto estão ou suspensos em congelamento por autoindução ou sendo caçados por esporte pelos servos de Lolth e Torog. Mas talvez Zehir esteja apenas ganhando tempo, esperando o momento certo para liberar seus exércitos escondidos no mundo mais uma vez.
 

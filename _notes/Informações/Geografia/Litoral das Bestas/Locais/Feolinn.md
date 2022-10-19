@@ -23,19 +23,20 @@ Menor do que seus vizinhos costeiros mais próximos, Feolinn é amplamente conhe
 ### **Árvores e Vinhas**
 A abundância de frutas e raízes doces colhidas nos [[Bosques Opulentos]] deu origem a uma indústria competitiva de vinhos e espíritos (de bebida). Os vinhos e sidras de Feolinn são famosos em toda Exandria. Os vinicultores de Feolinn são conhecidos por seu orgulho intenso e pelo desdém que têm por outros vinhedos, como os da cidade dwendaliana de [[Kamordah]]. Vintages clássicos são leiloados bem em [[Porto Damali]], enquanto bebidas de alta qualidade são apresentadas como um belo presente em círculos nobres. A concorrência entre as vinícolas e destilarias locais é acirrada, com grandes organizações como a Vinícola Soliva, os Vinhais Laffath & Legrand, a Adega Leoleoa e a Companhia Seio-Púrpura, todas competindo por renome local e internacional.
 
-> [!important]- **Vinhos de Feolinn**
+> **Vinhos de Feolinn**
+> 
 > O clima tropical e as terras férteis permitiram que Feolinn desenvolvesse um próspero comércio de vinhos em todo o Litoral das Bestas e além. Há uma competição feroz entre as famílias locais, bem como as vinícolas rivais de Kamordah no império, e os numerosos vinhos exportados de Feolinn podem reivindicar uma moeda respeitável, embora os preços possam variar dependendo do mercado.
 >
-> **Vinho *Ameixa-de-Diamante* | Solvia Groves:** 60 po por garrafa.
+> **Vinho Ameixa-de-Diamante | Solvia Groves:** 60 po por garrafa.
 >
-> ***Vermelho-Escuro* | Família Oveso**: 35 po por garrafa.
+> **Vermelho-Escuro | Família Oveso:** 35 po por garrafa.
 >
-> **Vinho de Ameixa *Sonho-Tardio* | Rustlecall**: 40 po por garrafa.
+> **Vinho de Ameixa Sonho-Tardio | Rustlecall**: 40 po por garrafa.
 >
-> **Vinho Branco *Pôr-do-Sol* | Solvia Groves**: 30 po por garrafa.
+> **Vinho Branco Pôr-do-Sol | Solvia Groves:** 30 po por garrafa.
 >
-> **Vinho Tinto Premium *Vinhal-Prateado*  | Cuthras**: 50 po por garrafa.
->
+> **Vinho Tinto Premium Vinhal-Prateado | Cuthras:** 50 po por garrafa.
+
 ### **Governo**
 A reputação de vaidade de Feolinn é bem merecida; até mesmo seus líderes acreditam na superioridade de sua cidade. O Marquês Hector Soliva da família Vínicola Soliva é o terceiro marquês de sua linhagem a manter a imagem luxuosa da cidade, ao mesmo tempo em que faz o possível para elevar o prestígio dos negócios de sua família. Os Zhelezo locais são frequentemente aconselhados pelas empresas a prestar atenção especial à sua segurança ou a se intrometer nos assuntos dos concorrentes. Essa cultura de suborno fez com que os Zhelezo de Feolinn negligenciassem as preocupações da classe baixa de sua cidade em favor de encher seus bolsos com "dicas" de mercadores.
 

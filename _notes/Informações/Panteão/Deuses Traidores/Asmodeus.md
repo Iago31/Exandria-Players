@@ -1,5 +1,5 @@
-# ==**Asmodeus,** o Lorde dos Nove Infernos==
-![[Símbolo de Asmodeus.png|right|300]]
+# **Asmodeus,** o Lorde dos Nove Infernos
+![Símbolo Asmodeus](https://github.com/Iago31/Exandria-Players/blob/master/assets/S%C3%ADmbolo%20de%20Asmodeus.png?raw=true)
 
 O deus demoníaco dos Infernos é o mestre da tirania e dominação. Suas palavras são melosas e cuidadosamente ditas, amolecendo e corrompendo o coração mortal. Asmodeus comanda em seu plano com punho de ferro, e as punições aguardando aqueles que o aborrecem são bases para pesadelos. Entidades do mal o pagam tributo e a seus diabos, e muitos bruxos são levados para seu poder.
 
