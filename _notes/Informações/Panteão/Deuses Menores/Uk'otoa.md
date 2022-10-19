@@ -1,0 +1,8 @@
+# ==**Uk'otoa,** o Lorde Leviatã==
+![[Uk'otoa.png|right|250]]
+
+Uk’otoa foi criado por Zehir e aterrorizou os mares de Wildemount até que a Divergência deixou o Leviatã sem mestre ou objetivo. Os povos selvagens sobreviventes das Ilhas Swavain, os Ki’Nau, adotaram Uk’otoa como seu guia e deus que comanda as águas e os traz prosperidade. O leviatã elevou os Ki’Nau a conquistar as costas do sul do continente até que a invejosa vontade de Zehir atravessou o Portão Divino e descobriu a insolência de sua criação, comandando os seus seguidores para sela-lo abaixo da base rochosa do Oceano Lucidian.
+
+Uk’otoa agora alcança os sonhos dos vagantes náuticos e marinheiros naufragados, oferecendo o seu poder a aqueles que desejam comanda os mares que ele uma vez comandou, instigando-os a liberta-lo de sua prisão suboceânica com promessas de presentes arcanos e a benção da lâmina conhecida como Espada de Fathoms, uma extensão da influência e vontade de Uk’otoa. Sua consciência encontrou as mentes de Desirat e Quajath, e os três tem um tênue acordo para convencer mortais a encontrar e liberta-lo de suas algemas.
+### **Aparência**
+Uk’otoa toma a forma de uma incrivelmente massiva serpente do mar. Sua enrolada e retorcida forma é coberta por barbatanas, escamas, e olhos âmbar, com uma cabeça terminando em uma longa mandíbula com presas e uma face com três olhos âmbar.

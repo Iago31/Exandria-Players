@@ -1,0 +1,4 @@
+# **Estações**
+Wildemount é um continente gelado – com a exceção do ensolarado e tropical Litoral das Bestas– e cada região experencia as estações diferentemente.
+
+Wynandir Ocidental sofre com lúgubres primaveras chuvosas e invernos ásperos. O Litoral das Bestas aprecia um longo, agradável verão, mas precisa aguentar um vicioso inverno repleto de tufões. O Penetrante Norte esta sempre coberto de areia, mas as temperaturas ficam tão baixas no inverno que pode ser mortal, e então, tem um chuvoso, relativamente normal verão. Finalmente, Wynandir Oriental aprecia uma temperatura igual o ano inteiro nas regiões mais baixas, tirando os ventos cortantes que rasgam as planícies na primavera e outono.
