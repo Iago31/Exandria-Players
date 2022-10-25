@@ -26,11 +26,6 @@ A partir deste acordo, foi estabelecido o novo centro de treinamento da Marca Ju
 
 ### **Governo**
 Embora o Jardim das Lâminas seja tecnicamente um assentamento militar sob a vigilância do general Kruth Doorav, a Coroa também designou um starosta, Leman TuFinn, para supervisionar as minúcias do dia-a-dia da governança imperial.
-### **Crime**
-À medida que o caos da guerra se torna mais frenético a cada semana que passa, os sobrecarregados Guardas da Coroa prestam pouca atenção, e a população distraída torna-se alvo fácil para pequenos criminosos. No entanto, aqueles que são apanhados encontram-se entre muitos soldados bem treinados que muitas vezes distribuem punições em tempos de crise, então perseguir o crime no Jardim das Lâminas é um esforço muito arriscado, se às vezes recompensador.
+
 ### **Geografia**
 Além dos impressionantes salões do amplo quartel da Marca Justiceira que se ergue sobre a borda leste da cidade, o Jardim das Lâminas é considerado por muitos como um lugar notavelmente monótono. O assentamento oval é atravessado por estradas de terra errantes que aparentemente param e começam sem razão, e há pouca cor nas ruas. Além das muralhas ocidentais, há várias fazendas onde os produtos locais são coletados para ajudar na alimentação da população, mas a maioria dos alimentos é trazida de carroça de outras fontes em todo o Vale da Medula.
-### **Aventuras no Jardim das Lâminas**
-O Jardim das Lâminas é uma excelente base de operações para personagens que lutam na guerra ao lado do império, ou para espiões Xhorhasianos que desejam se infiltrar nas fileiras de seus inimigos. Com os Guardas da Coroa sobrecarregados, também há muitas aventuras de combate ao crime dentro da cidade.
-
-**Companheiros Morais (qualquer nível).** A Coroa envia os Companheiros Morais, uma famosa dupla cômica de halflings, para manter o ânimo no Jardim das Lâminas. Mas quando a cortina sobe na noite de estreia, revela os corpos decapitados dos Companheiros Morais! Os personagens são contratados para responder à pergunta que todos fazem: quem matou os halflings? Podem ser espiões xhorhasianos determinados a manter o moral baixo, ladrões que queriam as bolsas dos halflings, ou talvez um assassino desonesto que queria enviar uma mensagem para toda a cidade de que isso é apenas o começo.

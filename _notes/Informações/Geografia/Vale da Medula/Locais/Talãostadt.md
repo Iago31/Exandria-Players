@@ -25,8 +25,3 @@ A Coroa não estava ansiosa para oferecer clemência a vários revolucionários 
 Embora faça parte do Império Dwendaliano, Talãostadt recebe muito pouco apoio da Coroa. Em vez disso, a Assembleia Cérberus paga baixos salários aos refugiados, enquanto promete que seu trabalho duro um dia lhes permitirá ganhar a cidadania imperial e uma melhor qualidade de vida para suas famílias. Com as tensões entre os refugiados e o império aumentando, e uma Guarda da Coroa que constantemente fecha os olhos para crimes dentro da comunidade, muito poucos moradores acreditam nessas promessas vazias.
 
 Em meio ao caos, um punhado de simpatizantes Draconianos dentro dos refugiados minam ativamente os líderes comunitários dos corvonitas.
-
-### **Aventuras em Talãostadt**
-O povo de Taloãostadt tem grande necessidade de aventureiros para protegê-los do crime, monstros e uns aos outros. A comunidade não pode oferecer muito em termos de recompensas monetárias, mas pode fornecer histórias esquecidas e descrever rotas (relativamente) seguras através de Xhorhas para os personagens.
-
-**Conselho Cromático (Nível Baixo).** Um grupo secreto de simpatizantes draconianos, que se autodenominam Conselho Cromático, seduzem os jovens adultos de Talãostadt com promessas de riqueza e uma vida melhor se aderirem aos mandamentos de Tiamat. Seus recrutas desaparecem nos Picos Guardião-Cinza para se encontrar com os líderes do culto, que planejam invadir caravanas que passam por dinheiro e suprimentos. Os personagens são contratados pelas famílias dos recrutas para recuperá-los desse culto sedicioso.

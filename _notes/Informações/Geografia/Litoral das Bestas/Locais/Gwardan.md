@@ -28,9 +28,6 @@ Os elfos de Gwardan construíram minas espalhadas pelas montanhas próximas, tor
 ### **Governo**
 Os assuntos gerais da cidade são supervisionados pelos Noldar, um conselho de quatro figuras que representam as facetas maiores da sociedade Gwardan. Embora os Noldar tenham sido estabelecidos no interesse da justiça, eles foram forçados a selecionar um deles como seu marquês quando Gwardan entrou na Concórdia de Clóvis. Atualmente, o Marquês Vasan Atrith liderou o povo Gwardan por pouco menos de um século e é visto como justo e direto.
 
-### **Crime**
-Embora o Marquês Atrith esteja disposto a permitir que pessoas de fora visitem e vivam dentro da cidade, o aumento do crime e os rumores do retorno da Míriade ào Litoral das Bestas a deixaram no limite. Os ladrões tentaram inúmeras vezes descobrir o processo secreto de fundição a vapor, fazendo com que ela aumentasse o número de Zhelezos patrulhando as ruas da cidade. Esses Zhelezo foram retirados de Porto Damali, e sua presença deu aos líderes de Porto Damali o poder de interferir nos assuntos locais, para consternação dos Noldar.
-
 ### **Geografia**
 Gwardan é uma cidade lindamente rústica, mas elegantemente refinada de madeira manchada e ouro que se ergue dos campos de grama alta varridos pelo vento, terras agrícolas cultivadas e árvores agrupadas das planícies frias do norte. O anel externo da cidade, chamado ==Anel Anorans==, é composto por inúmeras residências abobadadas de madeira curvada e casca esculpida onde as famílias fazem suas casas. As ==Casas da Sagacidade== formam uma região de prestígio onde três templos construídos para adoração também fornecem uma variedade de estudos avançados para um corpo estudantil limitado. Estas são a ==Casa da Iluminação sob Ioun==, ==a Casa da Invenção sob Moradin== ==e a Casa do Encantamento sob Corellon==.
 

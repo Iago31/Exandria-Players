@@ -26,9 +26,6 @@ A maioria dos ofícios e habilidades artesanais pode ser aprendida em Porto Zoon
 ### **Governo**
 Muitas vezes referido como a "Lebre de Ferro" por aqueles que não estão em sua presença, Marquês Alamads Haddou é um anão mais velho, um mestre em ferragens e o chefe da ==Guilda de Metálurgia Ossos-de-Prata==. Indisciplinado, mas apaixonado pela cidade e seu povo, Alamads governa com intenção clara e pune rapidamente qualquer um que transgrida suas leis ou coloque em perigo o povo de Porto Zoon. Seus Zhelezo são treinados para desconfiar naturalmente de mãos ociosas. Criminosos condenados são acorrentados e forçados a trabalhar para as várias guildas, fazendo os trabalhos mais difíceis em cada indústria.
 
-### **Crime**
-O grande volume de equipamentos e mercadorias produzidos dentro da cidade chama a atenção de oportunistas e falsários de todas as partes. Toda uma indústria se desenvolveu para diferenciar o trabalho verdadeiro das falsificações, e as leis de Porto Zoon são especialmente rígidas quando se trata de falsificações. Infelizmente, a atenção do Marquês Haddou foi dividida entre questões de produção e abastecimento com a crescente guerra ao nordeste, desviando sua atenção da crescente influência da Míriade sobre os negócios e líderes políticos da cidade.
-
 ### **Geografia**
 Porto Zoon é uma metrópole compacta de altas estruturas de pedra, vigas e torres de metal, camadas de poeira de exaustão à deriva e nuvens crescentes de fuligem industrial. A cidade é separada em três "esferas" menores, ou distritos, conectados à ==Esfera Gênesis== central através de vias principais ladeadas por casas e armazéns.
 

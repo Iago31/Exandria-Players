@@ -29,11 +29,6 @@ Situada um pouco além das fronteiras ao sul do império, Nicodranas foi apelida
 ### **Governo**
 Nicodranas é atualmente liderada pelo Marquês Zhafe Uludan, um poderoso mestre de guilda que está relacionado com Lorde [[Athesias Uludan]], um membro respeitado da Assembléia Cerberus. Essa conexão permitiu que a linhagem familiar de Zhafe mantivesse a tênue trégua entre o império e a Concórdia de Clóvis, incluindo o comércio controlado e as viagens entre fronteiras. Os Zhelezo que guardam a cidade se misturam com sentinelas Dwendalianas designadas, embora a jurisdição sobreposta ocasionalmente cause conflito.
 
-### **Crime**
-A estranha interseção da lei Dwendaliana e da Concórdia faz de Nicodranas um lugar especialmente perigoso para mergulhar em atividades criminosas. Ambas as facções são competitivas na aplicação das leis, então os criminosos locais são extremamente cautelosos para evitar atenção. No entanto, muitas coisas consideradas ilegais dentro do império são cuidadosamente regulamentadas, mas ainda assim legais aqui, dando a Nicodranas a duvidosa honra de ser o lugar mais seguro em Wildemount para se entregar aos vícios.
-
-A Míriade está quieta aqui, mas inquestionavelmente presente, manipulando o mercado negro para manobrar seu contrabando tanto na Concórdia de Clóvis quanto no Império Dwendaliano.
-
 ### **Geografia**
 Esta cidade portuária vívida e animada foi construída abaixo da foz do Vale Wuyun, onde as Montanhas Cyrios formam a fronteira sudeste do Império Dwendaliano. Os bairros dentro da cidade variam em arquitetura e atmosfera, mesclando pavilhões coloridos do Litoral das Bestas com a estética gótica e sombria de Dwendal, à medida que as culturas se chocam e se misturam. Dividido em quatro regiões soltas, cada seção é dividida pelos estilos de vida dos habitantes com base em qual lado do vale eles vêm.
 

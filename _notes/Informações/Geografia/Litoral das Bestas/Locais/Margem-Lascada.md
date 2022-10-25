@@ -25,8 +25,5 @@ A clientela em constante mudança, que muitas vezes chega depois de muitas seman
 ### **Governo**
 Como Margem-Lascada não tem marquês, seu líder de fato é o Protetor do Porto [[Mazin Fahreed]]. Mazin desempenha os deveres de um marquês sem o título ou respeito, e muitas vezes ele fica mal-humorado ao lidar com outros membros da Concórdia de Clóvis. Ele é conhecido por punir severamente aqueles que questionam sua autoridade. Ele mantém uma guarnição de Zhelezos endurecidos que mantém a paz entre marinheiros e mascates, enquanto ajuda os inspetores do porto a lidar com qualquer negócio suspeito entre os navios no porto.
 
-### **Crime**
-Os marinheiros que transportam mercadorias pelo oceano muitas vezes tentam tirar algumas mercadorias do topo de sua carga para fazer uma prata extra no mercado. Isso é considerado normal, a menos que a pessoa fique muito gananciosa. Menos aceitável é roubar de outros navios no porto antes de partir. Os Zhelezo locais punem severamente os ladrões, cruzando toda a documentação para garantir que a excelente reputação das guildas de navegação e da própria Margem-Lascada não seja manchada.
-
 ### **Geografia**
 O movimentado porto consiste em uma rua principal curva que segue a forma da enseada, formando um semicírculo alongado voltado para o oceano do norte. Não é incomum ver o porto cheio de navios atracados enquanto outros navios ancoram no porto, ansiosos para abrir vagas. A forte brisa do mar mantém os moradores frescos sob o sol escaldante que coze a terra e a areia ao longo das margens do assentamento

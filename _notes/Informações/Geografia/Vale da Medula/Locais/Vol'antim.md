@@ -31,13 +31,5 @@ Enquanto as pessoas mais instruídas de Wi!demount conhecem e entendem a naturez
 ### **Governo**
 A comunidade é liderada por uma dúzia de anciãos chamados ==Horizonte==. Cada ancião escolhe seu sucessor em seu leito de morte; se nenhum sucessor for nomeado antes do vencimento do mais velho, um será escolhido pelos membros restantes do Horizonte. Quando há desacordo dentro do Horizonte, o membro mais velho toma a decisão final e todos os outros seguem respeitosamente. As leis da comunidade são estruturadas em torno dos princípios de Melora e do respeito que ela tem por seu amante, Erathis, o Portador da Lei. Seu credo principal é que a vida natural é sagrada dentro dos caminhos da natureza e deve ser protegida.
 
-### **Crime**
-A cultura de Vol'antim evita o comportamento criminoso e a atuação fora dos interesses da comunidade. No entanto, existem contos de aarakocra do passado que caíram da graça de Melora e seguiram um caminho egoísta, e essas figuras foram muitas vezes punidas com o exílio. A visita de forasteiros também é conhecida por trazer atividades criminosas para a cidade, contribuindo para a desconfiança de quem chega às falésias sem ser convidado.
-
 ### **Geografia**
 Erguendo-se no alto de um vale rochoso, o pináculo da montanha se curva em seu pico, formando um lábio protetor sobre a face do penhasco, onde são visíveis as inúmeras entradas de cavernas para a cidade. Acessível apenas por via aérea, cada entrada tem uma pequena prateleira ou aba para chegada, muitas vezes com estandartes ou decoração de palha para significar o que é encontrado dentro. Além dessas cavernas, encontra-se uma rede de pequenos túneis que se abrem para uma caverna interior compartilhada, no meio da qual uma estalagmite de trinta metros de altura se funde com uma estalactite correspondente para formar um grande pilar crivado de cavernas que se conectam a propriedades na região nas paredes da caverna através de pontes e cordas.
-
-### **Aventuras em Vol'Antim**
-Se os personagens ganharem o respeito dos aarakocras de Vol'antim, eles podem ser solicitados a ajudar a manter as Montanhas Cyrios livres do mal. Se os personagens ganharem sua ira, eles fariam bem em evitar as montanhas.
-
-**Quebrem Alguns Ovos (Nível Baixo).** Os personagens são convidados pelos aarakocra de Vol'antim para ajudar a destruir um ninho de Harpias Penas-de-Sangue. Durante a missão, os personagens descobrem uma ninhada de ovos de harpia, que os aarakocra acreditam que devem ser destruídos, já que as lendas dizem que cada geração de harpias é mais forte que a anterior. Se os personagens destruirem os ovos, eles levarão as harpias a atos de destruição ainda maiores. Mas eles se recusam, como os aarakocra podem reagir?

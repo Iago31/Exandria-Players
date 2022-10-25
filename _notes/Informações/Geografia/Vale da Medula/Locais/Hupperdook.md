@@ -18,8 +18,10 @@ tags:
 - **Comércio:** Uma forte indústria em torno de metais, mineração, consertos e entretenimento disponibiliza suprimentos mais básicos e alguns bens mais raros. Hupperdook Superior tem muitas tavernas, pousadas e locais de folia
 - **Organizações:** As famílias industriais investem fortemente na cidade e nos seus negócios. Templos para deuses aprovados pelo império, especialmente Moradin, são fáceis de encontrar.
 
+![Hupperdook|600](https://github.com/Iago31/Exandria-Players/blob/master/assets/Hupperdook.png?raw=true)
+
 A comunidade gnômica de Hupperdook é construída ao longo da base leste da Serra Silberquel, marcada pelas colunas sempre crescentes de fumaça escura e vapor. Antes do império, Hupperdook permaneceu autônoma até que a Coroa absorveu a comunidade por meio de acordos diplomáticos há mais de dois séculos. Esta cidade cheia de fumaça é agora o coração da indústria do império, fabricando maravilhas tecnológicas e armas de guerra em grande escala para o Império Dwendaliano.
-![[Hupperdook.png|left|300]]
+
 A cultura gnômica dentro de Hupperdook valoriza o trabalho duro e a diversão. Os ofícios familiares variam de mineração de carvão e desenvolvimento mecânico a encantamentos práticos e a preparação de libações picantes. Dentro dos limites da cidade, um ar geral de expectativa otimista emoldura as atividades cotidianas dos moradores à medida que se aproximam do crepúsculo.
 
 ### **Carpe Noctis**
@@ -35,18 +37,9 @@ De acordo com o tratado que lhe permite se tornar parte do Império Dwendaliano,
 
 Devido à natureza independente da cidade, a presença da Guarda da Coroa é relativamente pequena, e os voluntários da ==Guarda dos Cidadãos== pegam a folga. Isso levou a alguma tensão entre as duas facções policiais, mas muitos da Guarda da Coroa perdoam qualquer descuido quando as bebidas da noite começam a fluir.
 
-### **Crime**
-Os dias diligentes são quase completamente livres de crimes, já que todos os cantos e recantos da cidade fervilham de negócios, mas as noites se prestam a uma supervisão sem brilho e à Guarda da Coroa embriagada. Pessoas  cuidadosas tendem a viajar em pares à noite, para que sua embriaguez não seja explorada por um ladrão. Enquanto a maioria dos criminosos nativos de Hupperdook desdenham bater carteiras nas ruas, o roubo é visto como uma perseguição nobre e habilidosa entre os ladrões.
-
 ### **Geografia**
 Hupperdook é dividida em quatro áreas distintas em dois níveis construídos contra a base da montanha. 
 
 Hupperdook Inferior fica no nível do solo e é dividida em duas seções. O manchado de fuligem e empoeirado ==Quinhão-Férreo==  é onde a maioria da mineração, metalurgia e produção em pequena escala ocorre em meio a bairros residenciais salpicados com uma dúzia de chaminés de cinzas. As maiores máquinas de guerra e máquinas de cerco são construídas no ==Quintal de Montagem==, enquanto projetos mais voláteis são testados dentro do gramado marcado por buracos conhecido como ==Campo-Cratera (Craterampo, como o povo o chama).==
 
 A região residencial mais charmosa de Hupperdook Superior fica a cerca de sessenta metros acima do solo, no topo de uma plataforma de rocha nivelada. Este nível da cidade tem duas regiões: ==Avenida Cataratas de Prata==, onde as enormes Cataratas de Prata descem do topo da montanha e desembocam em um pequeno lago cercado por torres residenciais, e a ==Estante-Faina==, uma região recreativa de amplo comércio, mercados coloridos, e encontros sociais.
-### **Aventuras em Hupperdook**
-A vizinha Serra Silberquel é uma fonte pronta de feras perigosas e perigos sobrenaturais, enquanto as celebrações noturnas da cidade escondem todos os tipos de travessuras.
-
-**A Vida é um Arrasto (Qualquer Nível).** A celebração anual da ***Passarela de Ferro*** está buscando artistas para impressionar a nobreza com performances impressionantes, de gênero e humor deliciosamente obsceno. Os personagens podem optar por participar de um impressionante prêmio máximo ou ser contratados para guardar o evento, que é conhecido por ser um pouco turbulento.
-
-**Um Problema Faminto (Nível Baixo).** Um ***monstro de ferrugem*** transportado ilegalmente escapou de sua gaiola durante a noite, aninhado dentro das Minas Silberquel, e deu à luz uma pequena ninhada. As criaturas famintas agora ameaçam consumir os veios de minério necessários para o esforço de guerra do império, a menos que os personagens consigam matá-los ou capturá-los.

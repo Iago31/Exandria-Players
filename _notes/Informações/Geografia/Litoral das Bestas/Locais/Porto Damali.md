@@ -40,11 +40,6 @@ A família Lapidus ganhou destaque há mais de um século, quando deixou de empr
 
 No entanto, a Marquêsa Lapidus enfrenta ameaças de todos os lados. Quando ela se distraiu com a ascensão da Pândega, a há muito adormecida Míriade entrou e recrutou muitas das guildas que ela deveria supervisionar. Agora ela luta para extirpar as garras Míriade embutidas na barriga de sua cidade.
 
-### **Crime**
-Porto Damali tem sido um nexo fundamental da atividade da Míriade  por algum tempo, e quase todos os elementos do grande comércio dentro da cidade estão ligados ao sindicato do crime de alguma forma. Muitos dos poderosos mercadores e donos de empresas fazem parte da Míriade ou estão vinculados a ela. Como tal, a cidade é o coração pulsante do comércio de escravos de Exandria, com traficantes de escravos que passam frequentemente para mover discretamente sua recompensa.
-
-Aqueles que falham na Míriade  são algemados e enviados como contrabando vivo. Os agentes da Míriade  são abundantes dentro da aplicação da lei de Porto Damali, então a maioria das atividades ilegais é encoberta ou permitida, a menos que tal crime interfira com os interesses da Míriade.
-
 ### **Geografia**
 A maior cidade na costa oeste de Wildemount, a resplandecente metrópole costeira de Porto Damali está aninhada no Rio Tyodan, onde encontra o Oceano Lucidiano. A cidade é construída no topo de um aglomerado de colinas niveladas, e pequenas mudanças de elevação marcam fisicamente a variação entre os bairros. Passando pelas fazendas, além das barracas e casas em ruínas que marcam os limites da cidade, fica o ==Caminho Prismático==, uma série de estradas principais de conexão feitas de pedras lisas e multicoloridas recuperadas das margens do oceano. Essas estradas cortam as alas internas: ==as Quedas==, ==o Beco dos Cordões==, ==as Crescentes==, ==a Esplanada Dourada== e ==a Luz a Bombordo.==
 

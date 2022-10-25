@@ -44,19 +44,19 @@ O calendário de Exandria é divido em 328 dias, agrupados em semanas de sete di
 O nome dos sete dias da semana são ==_Miresen, Grissen, Whelsen, Conthsen, Folsen, Yulisen e Da’leysen._==
 
 ### **Calendário de Exandria**
-|       Mês       | Dias | Feriados |
-|:---------------:|:----:|:--------:|
-|   **Horisal**   |  29  | Novo Alvorecer (1º)         |
-|  **Misuthar**   |  30  | Dia do Desafio (7º)         |
-|  **Dualahei**   |  30  | Esplendor Selvagem (20º)         |
-|  **Thunsheer**  |  31  | Ascensão da Colheita (11º),         |
-|  **Unndilar**   |  28  | Profundo Consolo (8º), Apogeu (26º)         |
-| **Brussendar**  |  31  | Raiar Élfico (20º)         |
-|  **Svdenstar**  |  32  | Alto Verão (7º)         |
-|  **Fessuran**   |  29  | Conclusão da Colheita (3º)         |
-| **Quen'pillar** |  27  | Amanhecer da Civilização (22º)         |
-|  **Cuersaar**   |  29  | Noite de Ascenção (13º)         |
-|   **Duscar**    |  32  | Véspera Estéril (2º), Maré de Brasas (5º)          |
+|       Mês       | Dias |                 Feriados                  |
+|:---------------:|:----:|:-----------------------------------------:|
+|   **Horisal**   |  29  |            Novo Alvorecer (1º)            |
+|  **Misuthar**   |  30  |            Dia do Desafio (7º)            |
+|  **Dualahei**   |  30  |         Esplendor Selvagem (20º)          |
+|  **Thunsheer**  |  31  |        Ascensão da Colheita (11º),        |
+|  **Unndilar**   |  28  |    Profundo Consolo (8º), Apogeu (26º)    |
+| **Brussendar**  |  31  |            Raiar Élfico (20º)             |
+|  **Svdenstar**  |  32  |              Alto Verão (7º)              |
+|  **Fessuran**   |  29  |        Conclusão da Colheita (3º)         |
+| **Quen'pillar** |  27  |      Amanhecer da Civilização (22º)       |
+|  **Cuersaar**   |  29  |          Noite de Ascenção (13º)          |
+|   **Duscar**    |  32  | Véspera Estéril (2º), Maré de Brasas (5º) |
 
 ###### **Novo Alvorecer:**
 O dia sagrado de [[Avandra]]. Quando o velho ano dá lugar ao novo. No Litoral das Bestas, pessoas celebram tendo banquetes na costa no crepúsculo para assistir ao amanhecer. Eles comem e discutem as esperanças para o novo ano enquanto o sol nasce

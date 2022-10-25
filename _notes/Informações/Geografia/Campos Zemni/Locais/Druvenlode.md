@@ -9,7 +9,7 @@ tags:
 
 # **Druvenlode**
 
-**Links:** [[Informações/Geografia/Campos Zemni/Campos Zemni]]
+**Links:** [[Campos Zemni]]
 
 ---
 - **População:** 12,110 (70% humanos, 14% anões, 9% elfos, 7% outras raças)
@@ -23,13 +23,5 @@ Fundada nos primeiros anos após a Calamidade, Druvenlode é a principal fonte d
 ### **Governo**
 Starosta Uvilia Whek supervisiona todas as principais operações de mineração, e as maiores guildas de mineração se reportam diretamente a ela. A manutenção dessas minas também requer proteger constantemente os trabalhadores e lutar contra as criaturas perigosas da Serra Silberquel, criando um mercado próspero para o trabalho mercenário quando os Guardas da Coroa estão muito ocupados - ou com muito medo. A maioria da população trabalha diretamente ou adjacente à indústria de mineração, trabalhando dentro das minas e túneis, categorizando e fundindo minerais e metais recuperados, ou forjando materiais em ferramentas úteis para distribuição em Wynandir Ocidental.
 
-### **Crime**
-A Guarda da Coroa local faz o possível para manter a paz, mas com a maioria dos olhos voltados para o leste, para a guerra, as ruas estão prontas para atividades criminosas. O roubo de mercadorias e minérios está aumentando, e cresce com isso o pedido de ajuda externa adicional.
-
 ### **Geografia**
 Druvenlode é dividida em três áreas principais. A maioria dos cidadãos vive nos arruínados ==Foles-de-Poeira==, onde a massa aglomerada de casebres simples e armazéns adaptados abrigam aqueles que vivem ali. Nessas ruas sombrias, a necessidade de distração leva a uma infinidade de músicas e danças experimentais nas esquinas e nas tavernas simples. A ==Rua-Prateada== é uma longa via onde o povo talentoso de Druvenlode vende seus produtos, anuncia suas habilidades e busca formas legais de ganhar uma renda sob a vigilância do império. A rua é cercada por duas enormes tavernas de jogos de azar que disputam o domínio: a ==Bolsa Esterlina== e a ==Cabine da Fortuna==. ==Os Pilares== são a parte industrial da cidade, onde colunas escuras de fumaça e exaustão são expelidas das operações de fundição maciça que pontilham a paisagem. A maioria dos mineiros e trabalhadores braçais trabalha nesta área, e muitos deles vivem nas mesmas fábricas cobertas de fuligem onde trabalham
-
-### **Aventuras em Druvenlode**
-Aventura pode ser encontrada nas minas de Druvenlode, que ocasionalmente se enchem de feras escavadoras, bem como na própria cidade, onde personagens obscuros são frequentemente encontrados entregando-se a jogos de azar ou pequenos furtos.
-
-**Incêndio nas Minas (Nível Médio).** Um ser feito de fogo atacou mineiros da Guilda Surgoth que estavam trabalhando em um veio de minério de prata. Os mineiros sobreviveram, mas estão com muito medo de voltar para a mina. Em vez disso, eles jogam suas economias na Bolsa Esterlina. Se os personagens investigarem, eles encontram um caminho de destruição na mina que leva a um **elemental do fogo** sob o controle de Casper Windmouth (neutro mal, homem, mago humano). Casper é um jogador com muitas dívidas a pagar, então ele aceitou um emprego de uma fonte anônima para assustar os mineiros. Era uma guilda de mineiros rival? Seriam os donos da Bolsa Esterlina, procurando manter seus clientes dia e noite? Ou era o dono da Cabine da Fortuna, esperando levar à falência os clientes de seu concorrente?

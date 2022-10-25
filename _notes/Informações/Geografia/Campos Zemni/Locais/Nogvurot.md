@@ -9,7 +9,7 @@ tags:
 
 # **Nogvurot**
 
-**Links:** [[Informações/Geografia/Campos Zemni/Campos Zemni]]
+**Links:** [[Campos Zemni]]
 
 ---
 - **População:** 15,270 (70% humanos, 17% anões, 8% elfos, 5% outras raças)
@@ -28,16 +28,7 @@ O regimento da Marca Justiceira estacionado na cidade seria o exército de defes
 ### **Governo**
 Starosta Brumae Luddie, general aposentado da Marca Justiceira, vigia a cidade há quinze anos. Brumae é movido por um forte senso de dever e orgulho no império, nunca questionando as palavras do rei. Como Brumae é considerado pela maioria como um Starosta justo, alguns temem que sua idade avançada em breve acabe com seu mandato e permita que figuras menos escrupulosas compitam por sua posição.
 
-### **Crime**
-A forte presença militar em Nogvurot reduz ao mínimo os pequenos crimes dentro da cidade. Infelizmente, os Guardas da Coroa muitas vezes estufam seus peitos e tentam superar os soldados da Marca Justiceira - e alguns criminosos locais se aproveitam dessa rivalidade mesquinha para manter os soldados distraídos e continuar seu comportamento criminoso desimpedido.
-
-A corrupção também está se tornando um problema, pois os soldados da Última Égide usam sua influência dentro da cidade para ganhar dinheiro fácil, fechando os olhos ao contrabando de e para o Córrego Riacho-Sombrio e outros pontos criminais nas Grisalhas Terras Selvagens.
-
 ### **Geografia**
 A cidade oblonga é dividida entre o Bloco Aegis oriental, que abriga a maior parte dos soldados estacionados, e a região oeste da cidade que é dividida em dois setores: os ==Alastres== do norte e o sul da ==Ala dos Mascates==. Os Alastres são a região maior, abrigando _tavernas de mergulho_* , templos simples e a maioria da população, que vive em vários bairros de domicílios precários. Em contraste, a Ala dos Mascates é um movimentado lar de guildas de artesãos locais e um mercado colorido, embora lamacento, onde a Estrada Corrida-da-Glória passa pela cidade
 
  *relacionados aos "Dive Bars", tipicamente  bares pequenos, sem glamour, eclético e de estilo antigo com bebidas baratas.*
-### **Aventuras em Nogvurot**
-Os personagens podem ir a Nogvurot para encontrar alguém na cidade ou se juntar à Marca Justiceira. A cidade também é um bom lugar para aventureiros que querem testar sua coragem em jogos competitivos contra soldados treinados.
-
-**Traidores entre Nós (Nível Baixo).** Os personagens são abordados por Telva Cornwrath (espião neutra, feminina, humana), que afirma trabalhar para o Nascer Dourado. Ela contrata os personagens para se infiltrar nas fileiras da Marca Justiceira em Nogvurot e descobrir quais soldados estão aceitando subornos das Tribos do Córrego Riacho-Sombrio. Ela quer saber qual família criminosa paga a cada funcionário corrupto. Ela pode ser quem ela afirma, ou ela pode ser uma espiã da Míriade ou uma das Tribos no Córrego Riacho-Sombrio procurando eliminar a concorrência. No último caso, ela pode não querer que os personagens fiquem como pontas soltas.
