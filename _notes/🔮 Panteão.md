@@ -5,7 +5,7 @@ Os deuses são divididos em três categorias:
 ### **Deuses Primordiais:**
 O círculo das divindades primordiais inclui os líderes e criadores que lutaram contra Os Elementos e instigaram a Fundação, forjando as raças mortais de Exandria. Eles representam um espectro de luz, proteção, amor, morte, e outras facetas de liberdade e vida no mundo. Mesmo que alguns dos Deuses não se deem bem, eles existem em uma fina aliança e mantem o santuário da vida de suas respectivas criações.
 
-|       Divindade       | Alinhamento | Províncias                             | Domínios                       | Símbolos                                                                           |
+|       Divindade       | Alinhamento | Províncias                             | Domínios                       | Símbolo                                                                           |
 |:---------------------:|:-----------:| -------------------------------------- | ------------------------------ | ---------------------------------------------------------------------------------- |
 |      **[[Avandra]]**      |     CM      | Mudança, Liberdade, Sorte              | Natureza, Enganação            | Retrato de uma mulher gravada em uma moeda ou pingente                             |
 |      **[[Bahamut]]**      |     LB      | Honra, Justiça                         | Vida, Ordem, Guerra            | Retrato da cabeça de um dragão de prata                                            |
@@ -23,7 +23,7 @@ O círculo das divindades primordiais inclui os líderes e criadores que lutaram
 ### **Deuses Traidores:**
 Os Deuses Traidores são divindades que se desviaram dos ideias da [[Fundação]] e abraçaram o destrutivo caos dos Elementos ou cresceram egoístas de suas próprias criações. Os Deuses Traidores raramente trabalham juntos, pois veem uns aos outros como ameaças aos próprios objetivos. Esta mesa fraqueza permitiu que os Deuses Primordiais derrotassem e banissem eles, acabando com a [[Calamidade]].
 
-|   Divindade   | Alinhamento | Províncias                  | Domínios                                  | Símbolos                                                |
+|   Divindade   | Alinhamento | Províncias                  | Domínios                                  | Símbolo                                                |
 |:-------------:|:-----------:| --------------------------- | ----------------------------------------- | ------------------------------------------------------- |
 | **[[Asmodeus]]**  |     LM      | Deus dos Nove Infernos      | Enganação, Guerra                         | Coroa de ônix em formato de espinhos e chifres curvados |
 |   **[[Bane]]**    |     LM      | Conquista, Tirania          | Forja Ordem, Guerra                       | Mangual de correntes, cada uma terminando em algemas    |
@@ -38,7 +38,7 @@ Os Deuses Traidores são divindades que se desviaram dos ideias da [[Fundação]
 ### **Deuses Menores:**
 Após o banimento do panteão na Divergência, o reino mortal foi deixado sozinho. Mesmo com a mínima assistência divina que é permitida pelo Portão Divino, as criaturas mortais são agora as guardiãs do futuro de Exandria. Este aspirador de influência fez crescer um número de entidades poderosas que não rivalizam os Deuses em suas habilidades ou influencia, mas agora sem desafios, podem conseguir uma modesta quantidade de seguidores para si. Estes Deuses se apresentam em muitas diferentes formas, alguns como honráveis guardiões dos necessitados, e outros como deuses tiranos que aspiram ser. Muitas destas entidades têm ambições que desejam cumprir e podem oferecer grande poder para mortais em troca de sua servidão.
 
-|        Divindade         | Alinhamento | Patronos de Bruxo            | Domínios                 | Símbolos                                                     |
+|        Divindade         | Alinhamento | Patronos de Bruxo            | Domínios                 | Símbolo                                                     |
 |:------------------------:|:-----------:| ---------------------------- | ------------------------ | ------------------------------------------------------------ |
 | **[[Braços dos Traidores]]** |     NM      | O Corruptor, O Hexblade      | Morte, Guerra            | Lâmina penetrando de cima para baixo um crânio de oito olhos |
 |       **[[Ceratos]]**        |     CN      | O Grande Antigo              | Conhecimento, Tempestade | Três olhos diferentes cercados de dentes                     |
