@@ -8,7 +8,8 @@ tags:
 **Links:**
 
 ---
-![[Símbolo da Diarquia de Uthodurn.png|right|300]]
+
+![Diarquia de Uthodurn|400](https://github.com/Iago31/Exandria-Players/blob/master/assets/S%C3%ADmbolo%20da%20Diarquia%20de%20Uthodurn.png?raw=true)
 
 Quando a cidade élfica de Molaesmyr desenterrou uma terrível maldição que arruinou a Floresta Savalir, muitos sobreviventes fugiram para o norte. Eles suportaram as nevascas e os perigos dos Alpes Flotket, agarrados à esperança de que os reclusos anões de Uthodurn encontrariam misericórdia suficiente para ajudá-los. Embora muitos tenham perecido nos elementos severos, os refugiados élficos finalmente localizaram as portas de ferro da fortaleza subterrânea e pediram asilo. Foi apenas com uma leve hesitação que os anões aceitaram seus hóspedes desesperados, levando-os para os salões quentes de sua cidade e dando-lhes um lugar para ficar.
 
@@ -24,14 +25,8 @@ Muitos historiadores e membros proeminentes de ambas as metades da sociedade de 
 A crescente população da cidade tem uma necessidade constante de mais recursos, então a diarquia concordou com a necessidade de expandir além da passagem da montanha. A vila de Uraliss foi fundada usando magia experimental projetada para derreter campos de neve, com o objetivo de transformar seções das Planícies Geada em terras agrícolas. Infelizmente, o solo sob a neve acabou sendo rocha incultivável, então o assentamento foi abandonado. Os dois monarcas então estabeleceram a vila de pescadores do norte de Palebank, que fornece novos bens e um posto avançado costeiro, apesar do frio extenuante.
 
 Pequenas embarcações construídas para resistir às águas geladas das Profundezas Frígidas começaram a explorar as margens que cercavam a região, descobrindo as terras de Eiselcross. Nesses desertos congelados, os colonos de Uthodurn descobriram sinais de arcano disperso de uma era pré-calamidade enterrados sob a neve. Essas descobertas despertaram o interesse dos pesquisadores de Molaesmyr e dos monarcas de Uthodurn. À medida que o conflito no sul aumenta, os líderes de Uthodurn estão ansiosos para ganhar qualquer poder ou proteção que possam ser obtidos com os segredos escondidos na traiçoeira tundra de Eiselcross.
+
 ### **Relações**
 Uthodurn tem pouca afiliação com outras facções em Wildemount. Além dos exploradores e aventureiros ocasionais que não representam nenhuma ameaça, a maioria das pessoas que vêm para Uthodurn são recebidas com ceticismo e evitadas. Os moradores não querem nada com a guerra no sul.
 
 Qualquer um que possa ser deo Córrego Riacho-Sombrio é tratado como um bandido e imediatamente capturado e interrogado. Qualquer informação sobre os poderes por trás da civilização criminosa é considerada útil, e uma vez que os prisioneiros não violentos gastam sua utilidade, eles são despojados de seus equipamentos sem cerimônia e soltos nos campos nevados das Planícies Geada.
-
-### **Figuras de Interesse**
-Distanciados da agitação política de Wynandir Ocidental e Oriental, essas figuras dentro da Diarquia de Uthodurn estão começando a buscar seu lugar no mundo mais amplo de Exandria.
-
-``` dataview
-list from #NPC where facção = "Diarquia"
-```

@@ -8,7 +8,7 @@ tags:
 
 # **Litoral das Bestas**
 
-**Links:** [[🗺 Geografia]], [[Regiões Pós-Divergência#O Litoral das Bestas|História do Litoral das Bestas]]
+**Links:** [[🗺 Geografia]] | [[Regiões Pós-Divergência|História do Litoral das Bestas]]
 
 ---
 ![Mapa Litoral das Bestas](https://github.com/Iago31/Exandria-Players/blob/master/assets/Mapa%20Litoral%20das%20Bestas.png?raw=true)

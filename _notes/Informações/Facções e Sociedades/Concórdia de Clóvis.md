@@ -8,19 +8,25 @@ tags:
 **Links:** [[Informações/História/Pós-Divergência/Locais/Litoral das Bestas]]
 
 ---
-![[Símbolo da Concórdia de Clóvis.png|right|250]]
+![Símbolo Concórdia|400](https://github.com/Iago31/Exandria-Players/blob/master/assets/S%C3%ADmbolo%20da%20Conc%C3%B3rdia%20de%20Cl%C3%B3vis.png?raw=true)
 
 Quase quatrocentos anos atrás, uma aliança dos ilhéus Ki'Nau e comerciantes estrangeiros Marquesianos fundaram uma nova nação no tropical Litoral das Bestas. A Concórdia de Clóvis é uma nação democrática que impõe a lei e a ordem e regula o comércio ao longo da costa. A nação é composta por oito cidades-estados independentes, cada uma governada por seu próprio marquês, que operam como uma união sob a bandeira da Concórdia de Clóvis. Esse arranjo garante leis uniformes, regulamentação do comércio e proteção mútua entre as cidades-estados. Essas oito cidades são ==Porto Damali==, ==Porto Zoon==, ==Gwardan==, ==Tussoa==, ==Othe==, ==Feolinn==, ==Nicodranas== e ==Margem-Lascada==.
-![[Pescador da Concórdia.png|left|130]]
+
+![Pescador|left|150](https://github.com/Iago31/Exandria-Players/blob/master/assets/Pescador%20da%20Conc%C3%B3rdia.png?raw=true)
+
 As rotas de navegação abertas e o cenário tropical convidativo tornaram o domínio da Concórdia de Clóvis um caldeirão cultural e um lugar popular para se viver ou visitar. Sabendo disso, os respetivos marqueses mantêm uma longa tradição de acolher todos os viajantes cansados e proporcionar um ambiente de cor e encanto. Se houver ouro para ser gasto, o Concórdia está ansiosa para que você o gaste dentro de suas cidades. Entre os locais de entretenimento e vício, e as amplas oportunidades de negócios, a Concórdia espera convencer aqueles com dinheiro a gastá-lo aqui, fora dos portões do Império Dwendaliano.
-![[Aristocrata da Concórdia.png|right|130]]
+
+![Aristocrata|right|130](https://github.com/Iago31/Exandria-Players/blob/master/assets/Aristocrata%20da%20Conc%C3%B3rdia.png?raw=true)
+
 Internamente, cada marquês da Concórdia de Clóvis mantém um controle rígido sobre o transporte e o comércio que vem de suas cidades, supervisionando todas as guildas que organizam importações e exportações e gerenciando um punhado de mestres de guilda que formam a espinha dorsal do comércio local. Quando um marquês morre ou sofre impeachment pelos outros membros da Concórdia, os membros restantes escolhem um sucessor.
-![[Zhelezo.png|left|130]]
+
+![Zhelezo|left|130](https://github.com/Iago31/Exandria-Players/blob/master/assets/Zhelezo.png?raw=true)
+
 Guerreiros que provam seu poder através de lutas de gladiadores durante os momentos de celebração e cerimônia são convidados a se juntar aos ==Zhelezo==, uma força de guarda bem paga que trabalha para o marquês governante para fazer cumprir as leis. As cidades têm um ou mais magistrados que supervisionam o julgamento em questões legais e punições criminais.
 
 Embora as cidades trabalhem juntas para o bem da Concórdia, elas também estão em silenciosa competição umas com as outras, exibindo sua riqueza e clientela em todas as oportunidades. Quando uma figura proeminente dos confins de Exandria encontra seu caminho para o Litoral das Bestas, não é incomum que eles sejam cortejados por vários marqueses na tentativa de convencer o personagem a ficar como hóspede de sua cidade.
-![[Guardião do Litoral.png|right|130]]
-Nos últimos tempos, a [[Míriade]] se infiltrou sutilmente na Concórdia de Clóvis, muitas vezes com a ajuda involuntária de políticos locais gananciosos. Rumores de conluio criminal levantaram suspeitas entre os membros da Concórdia. Mais cedo ou mais tarde, a tensão terá que quebrar - e as consequências não serão bonitas.
+
+![Guardião do Litoral](https://github.com/Iago31/Exandria-Players/blob/master/assets/Guardi%C3%A3o%20do%20Litoral.png?raw=true)
 
 Apesar do relacionamento cordial da concórdia com o Império Dwendaliano, sua proximidade com o poder imperial é uma fonte persistente de desconforto. Atualmente, o acordo mantém um exército permanente de 7.800 soldados ==Guardiões do Litoral== em toda a costa, uma frota náutica de 370 navios e 5.200 Zhelezo divididos entre as cidades. Alguns dos Guardiões do Litoral estão postados no interior, espalhados ao redor e dentro das Montanhas Cyrios, onde mantêm fortes ao longo da fronteira com Wynandir Ocidental e o Império Dwendaliano.
 
@@ -31,13 +37,6 @@ Quarenta anos atrás, quando a Concórdia trabalhou para impor impostos crescent
 
 ### **Relações**
 Após a queda do Domínio de Julous e a ascensão do Império Dwendaliano, a Concórdia estava ansiosa para chegar a um acordo diplomático com o império vitorioso. O império reconheceu a dificuldade de conquistar a Concórdia de Clóvis e o desafio de administrar sua imensa rede de comércio internacional e aquiesceu a um tratado. Esta aliança frouxa tem sido mutuamente benéfica por muitas gerações, e a cidade de Nicodranas atua como um terreno comum para as pessoas de ambas as nações. Tanto a Guarda da Coroa imperial quanto os Zhelezo local mantêm a paz em Nicodranas, e as leis imperiais e Concordianas dominam a cidade. Embora esse arranjo ocasionalmente cause tensão entre os dois governos, os marqueses da concórdia ficam felizes em ter o amortecedor do império entre eles e os desertos vorazes de Xhorhas. À medida que a guerra entre o império e Xhorhas continua a crescer, o acordo está determinado a permanecer neutro. Isso causou alguma tensão com o império, mas nada que a concórdia se preocupe ofuscará seu tratado de longa data.
-
-### **Figuras de Interesse**
-Embora os marqueses da Concórdia de Clóvis adotem externamente o espírito de cooperação sobre o qual sua nação foi fundada, a maioria planeja e conspira uns contra os outros para alcançar um poder cada vez maior.
-
-``` dataview
-list from #NPC where facção = "Concórdia"
-```
 
 ### **Leis da Concórdia de Clóvis**
 Todos os que os estimados Zhelezo consideram que infringiram as justas leis da Concórdia de Clóvis são julgados e sentenciados pelo magistrado local e estão sujeitos a punições condizentes com o crime.

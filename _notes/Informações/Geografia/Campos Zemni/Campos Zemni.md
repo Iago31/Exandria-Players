@@ -8,7 +8,7 @@ tags:
 
 # **Campos Zemni**
 
-**Links:** [[🗺 Geografia]], [[Regiões Pós-Divergência#Wynandir Ocidental|História de Wynandir Ocidental]]
+**Links:** [[🗺 Geografia]] | [[Regiões Pós-Divergência|História de Wynandir Ocidental]]
 
 ---
 ![Mapa Campos Zemni](https://github.com/Iago31/Exandria-Players/blob/master/assets/Mapa%20Campos%20Zemni.png?raw=true)

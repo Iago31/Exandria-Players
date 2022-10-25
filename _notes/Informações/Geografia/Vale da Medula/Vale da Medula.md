@@ -8,7 +8,7 @@ tags:
 
 # **Vale da Medula**
 
-**Links:** [[🗺 Geografia]], [[Regiões Pós-Divergência#Wynandir Ocidental|História de Wynandir Ocidental]]
+**Links:** [[🗺 Geografia]] | [[Regiões Pós-Divergência|História de Wynandir Ocidental]]
 
 ---
 ![Mapa Vale da Medula](https://github.com/Iago31/Exandria-Players/blob/master/assets/Mapa%20Vale%20da%20Medula.png?raw=true)
