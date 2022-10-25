@@ -15,21 +15,21 @@ O Império Dwendaliano reina sobre Wynandir ocidental a gerações. Regras imper
 
 O rei Bertrand Dwendal já completou dois meses de seu sexagésimo oitavo aniversário, e sua vontade de ferro não vacilou com a idade. Um homem alto e poderoso, o Rei Dwendal recompensa a lealdade e pune rapidamente a insolência e o fracasso. Sua família desenvolveu um governo totalitário que cobra impostos pesados e paira sobre a sociedade com uma presença militar que só se fortalece com a proximidade da capital de Rexxentrum. Embora a agitação cívica vá além de meros murmúrios de tempos em tempos, lembretes das criaturas perigosas que vivem além das fronteiras guardadas de cada cidade e as proteções oferecidas dentro do império geralmente mantêm a população na linha. Aqueles que se rebelam geralmente se encontram acorrentados ou esquecidos em uma masmorra.
 
-![Fazendeira|left|170](https://github.com/Iago31/Exandria-Players/blob/master/assets/Fazendeira%20Dwendaliana.png?raw=true)
+![Fazendeira|170](https://github.com/Iago31/Exandria-Players/blob/master/assets/Fazendeira%20Dwendaliana.png?raw=true)
 
 O Império Dwendaliano tem um sistema de classe social rígido, do qual cidadãos que aperfeiçoaram as artes arcanas são considerados membros da elite. Muitos lordes e duquesas vem de linhagens feiticeiras ou estudaram o arcano nas paredes da Academia Solstryce. Aqueles que tem um talento nato em controlar sua magia ou que nasceram em famílias proeminentes podem se tornar membros da [[Assembleia Cérberus]], um conselho de magos extremamente poderosos que trabalham diretamente com o rei Dwendal e seus conselheiros para desenvolver e fazer cumprir as leis em todo Wynandir Ocidental. No entanto, a desconfiança entre o rei e a Assembléia de Cerberus é profunda, pois ambos desejam eliminar o outro e desfrutar de um poder incontestável.
 
-![Aristocrata|right|170](https://github.com/Iago31/Exandria-Players/blob/master/assets/Aristocrata%20do%20Imp%C3%A9rio.png?raw=true)
+![Aristocrata|170](https://github.com/Iago31/Exandria-Players/blob/master/assets/Aristocrata%20do%20Imp%C3%A9rio.png?raw=true)
 
 A maioria das cidades e vilas do império são comandadas por um governo local liderado por um Starosta, regularmente um barão nativo apontado pela Coroa e pela Assembleia. Reportando diretamente para o conselho do rei, o Starosta tem controle absoluto sobre o governo local, apontando e mantendo responsabilidades para os comandantes da guarda da cidade (Mestre da Guarda), a milícia regional (Mestre de Guerra), comércio local (Mestre Contador), infraestrutura (Mestre da Organização), práticas religiosas (Mestre dos Ídolos), e as cortes de lei (Mestre da Lei).
 
-![Soldado Marca Justiceira|left|170](https://github.com/Iago31/Exandria-Players/blob/master/assets/Soldado%20da%20Marca%20Justiceira.png?raw=true)
+![Soldado Marca Justiceira|170](https://github.com/Iago31/Exandria-Players/blob/master/assets/Soldado%20da%20Marca%20Justiceira.png?raw=true)
 
 Duas vezes ao ano, coletores de dizimo (apelidados de “Ceifadores” pelo povo) visitam cada cidade imperial para inspecionar as casas por registros e prova de renda, coletando uma porcentagem de seus ganhos em dinheiro determinado pelo coletor de dizimo.
 
 A força militar atual fica entre 35,300 soldados da Marca Justiceira entre todos os regimentos e 5,200 soldados da Coroa entre todas as cidades. A maioria das forças da Marca Justiceira foi implantada em fortificações ao longo da fronteira Xhorhasiana no início da guerra atual.
 
-![Guarda da Coroa|right|170](https://github.com/Iago31/Exandria-Players/blob/master/assets/Guarda%20da%20Coroa.png?raw=true)
+![Guarda da Coroa|170](https://github.com/Iago31/Exandria-Players/blob/master/assets/Guarda%20da%20Coroa.png?raw=true)
 
 Logo depois que a linhagem Dwendaliana chegou ao poder, houve uma rebelião de curta duração liderada por civis religiosos. Foi rapidamente reprimido e os líderes rebeldes foram executados em um evento conhecido como ==Advertência==. A classe dominante tem visto a religião com desconfiança desde então, acreditando que a fé inspira os indignos a se elevarem acima de sua posição e desencadear uma rebelião infrutífera. Em vez de abolir todas as práticas religiosas, o império regula o culto dentro de seus limites. Todos os templos são de propriedade e administrados pelo governo e devem ser dedicados a divindades aprovadas pela Coroa. Sacerdotes e clérigos estão na folha de pagamento da Coroa para pregar apenas textos religiosos aprovados. Manter santuários privados ou adorar fora dos templos oficiais é punível com multas ou prisão. 
 

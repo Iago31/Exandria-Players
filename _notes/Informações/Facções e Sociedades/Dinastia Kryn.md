@@ -8,7 +8,6 @@ tags:
 **Links:**
 
 ---
-
 ![Dinastia|400](https://github.com/Iago31/Exandria-Players/blob/master/assets/S%C3%ADmbolo%20da%20Dinastia%20Kryn.png?raw=true)
 
 Pouco se sabe sobre a misteriosa ciilização ao Leste. 
