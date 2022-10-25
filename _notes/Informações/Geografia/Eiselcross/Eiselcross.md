@@ -11,7 +11,9 @@ tags:
 **Links:** [[🗺 Geografia]]
 
 ---
-![Mapa Eiselcross](https://github.com/Iago31/Exandria-Players/blob/master/assets/Mapa%20Eiselcross%20(Players).png?raw=true)
+![Mapa Eiselcross](https://github.com/Iago31/Exandria-Players/blob/master/_notes/Attachments/Mapa%20Eiselcross%20(Players).png?raw=true)
+
+
 
 Ao norte do resto de Wildemount há uma coleção de imponentes ilhas de gelo, perigo e relíquias poderosas e esquecidas. Eiselcross e as Grisalhas Terras Selvages são conhecidos coletivamente como o ==Penetrante Norte==. Durante séculos, a maior parte do mundo descartou Eiselcross como uma terra glacial inabitável de nevascas e yetis. Apenas navios de pesca chegaram perto das costas congeladas, até que um desses navios encontrou um item Aeoriano (pronunciado *Eioriano*).
 
