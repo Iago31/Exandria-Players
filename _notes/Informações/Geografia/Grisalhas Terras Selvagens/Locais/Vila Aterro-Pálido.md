@@ -23,13 +23,5 @@ Ao longo da costa fria das Profundezas Frígidas, a Vila Aterro-Pálido marca o 
 ### **Governo**
 A vila é guiada por Elro Aldataur, um elfo patrulheiro que ajudou a fundar Aterro-Pálido há cerca de sessenta anos. Estóico e sem humor, Elro mostrou um talento especial para a liderança quando o posto avançado inexperiente foi cercado de perigos em uma base quase constante. Elro conquistou a confiança e o respeito dos moradores, e eles o pediram para governar Aterro-Pálido. Ele aceitou a contragosto e desde então supervisionou a expansão e proteção da vila. Elro geralmente tem sessenta a noventa Lâminas-Vítrias sob seu comando.
 
-### **Crime**
-O povo de Aterro-Pálido deve trabalhar em conjunto para sobreviver nesta terra gélida, e há pouco espaço na pequena comunidade para realizar qualquer furto ou atividade imoral que valha a pena. Quais crimes ocorrem nascem da necessidade e são punidos de acordo por Elro.
-
 ### **Geografia**
 Cercado por quatro torres de vigia e uma paliçada de três metros de altura de troncos afiados, Aterro-Pálido é uma vila em ruínas trancada no inverno eterno. A aldeia é composta por mais de uma centena de cabanas e barracos. É muito pequeno para ter bairros distintos, então a maioria das empresas e residências foram estabelecidas onde cabiam na época, criando um layout sinuoso. Ao largo da falésia norte, cerca de cinco metros abaixo da praia de areia e neve, as docas abrigam cerca de uma dúzia de navios, desde embarcações de pesca a pequenos navios de carga que transportam expedições de e para Eiselcross.
-
-### **Aventuras na Vila Aterro-Pálido**
-A Vila Aterro-Pálido seria um lugar sonolento, sem muita agitação, não fosse a presença de exploradores ansiosos e a importância do assentamento como um ponto de passagem entre Uthodurn e as ilhas de Eiselcross.
-
-**Noite dos Trolls (Nível Médio).** Enquanto os personagens ficam na Vila Aterro-Pálido, o único sobrevivente de uma azarada patrulha de Lâminas-Vítrias cambaleia para a vila. Um bando organizado de trolls está descendo dos Alpes Flotket em direção ao assentamento, que precisa de todos os guerreiros aptos para manter os trolls afastados. Como esses trolls ficaram tão organizados e o que eles procuram na vila?
